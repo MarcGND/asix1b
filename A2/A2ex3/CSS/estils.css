@@ -1,0 +1,94 @@
+body{
+  background: yellow;
+  margin-top: 0,5%;
+  margin-left: 8%;
+  margin-right: 8%;
+  padding:0;
+  border: 0;
+  font-family: serif; font-size: 125%;
+}
+
+header{
+  background-color: whitesmoke;
+  padding: 10px 15px;
+
+}
+
+nav{
+  text-align: center;
+  background-color: gray;
+  color: orange;
+    width: 80em;
+    
+}
+nav li{
+  display: inline;
+  padding: 15px;
+
+}
+
+h1 {
+  text-align: left;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1.5em;
+  margin-bottom: 3px;
+  padding-left: 10px;
+  color:blue;
+  background-color: whitesmoke;
+  
+ 
+}
+
+h2, h3 {
+  text-align: left;
+  font-size: 1.5em;
+  margin-bottom: 10px;
+  color:black;
+  text-decoration: solid;
+}
+#especial::first-letter {
+  font-weight: bold;
+  font-size: 300%;
+  
+  }
+
+#titollogo {
+ background-color:gray;
+ text-align: center;
+ width: 80em;
+  }
+#imatgetext {
+  background-color: whitesmoke;
+  text-align: center;
+}
+#textprincipal{
+  text-align: left;
+  background-color: whitesmoke;
+  color: #000;
+  font-size: 1.0em;
+  padding: 0 10px;
+  font-family: Arial, Helvetica, sans-serif;
+  
+}
+
+#fons{
+  background-color: whitesmoke;
+}
+
+.logo{
+
+  width: 20px;
+  height: 20px;
+  padding-left: 5px;
+}
+
+#curiositats{
+  margin-left: 25px;
+}
+
+footer{
+  background-color: blueviolet;
+  text-align: center;
+  
+    
+}
