@@ -1,6 +1,6 @@
 body{
   background: yellow;
-  margin-top: 0,5%;
+  margin-top: 1%;
   margin-left: 8%;
   margin-right: 8%;
   padding:0;
@@ -86,6 +86,10 @@ h2, h3 {
   margin-left: 25px;
 }
 
+.enllaç{
+  link: orange;
+  visited: orange;
+}
 footer{
   background-color: blueviolet;
   text-align: center;
