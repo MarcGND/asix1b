@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="ca">
+
+<head>
+  <meta charset="utf-8">
+  <title>Rural Rooms</title>
+  <link rel="stylesheet" href="./CSS/estils.css">
+</head>
+
+<body>
+  <header>
+    <div class="imatgerr">
+      <a href="pagina_inici.html">
+        <img src="./img/RRLogo.png">
+      </a>
+    </div>
+    <nav>
+      <li class="enllaç"><a href="pagina_inici.html">Inicio</a></li>
+      <li class="enllaç"><a href="precios.html">Precios</a></li>
+      <li class="enllaç"><a href="reserva.html">Reserva</a></li>
+    </nav>
+  </header>
+  <div>
+    <p class="titoltaula">Reserve su habitación en Rural Rooms</p>
+  </div>
+  <div class="formulari">
+    <form>
+      <ul>
+        <h3>Datos clientes</h3>
+        <li class="form">
+          <p>Como desea ser tratad@:</p>
+          <input type="text" list="mydata" …>
+          <datalist id="mydata">
+            <option label="Sr" value="Señor">Señor</option>
+            <option label="Srta" value="Señorita">Señorita</option>
+            <option label="Sra" value="Señora">Señora</option>
+          </datalist>
+        </li>
+        <li class="form">
+          <label for="name">Nombre:</label>
+          <input type="text" name="name" id="name" value="" required />
+        </li>
+        <li class="form">
+          <label for="Apellidos">Apellidos:</label>
+          <input type="text" name="Apellidos" id="lastName" value="" required />
+        </li>
+        <li class="form">
+          <label for="Email">Email:</label>
+          <input type="email" name="correo-electronico" id="correo-electronico" value=""
+            placeholder="usuario@dominio.com" required />
+
+        </li>
+        <li class="form">
+          <label for="confirmEmail">Confirmar email</label>
+          <input type="email" id="confirmEmail" name="confirmEmail" placeholder="Confirma el correo electrónico"
+            required />
+
+        </li>
+        <li class="form">
+          <label for="password">Contraseña</label>
+          <input type="password" id="password" name="password" placeholder="Contraseña (Ej: contraseña123)" required />
+        </li>
+        <li class="form">
+          <label for="tipushabitacio">Tipo habitación:</label>
+          <select name="name" id="tipushabitacio">
+            <option value="Habitación Individual">Habitación Individual</option>
+            <option value="Habitación doble">Habitación Doble</option>
+            <option value="Habitación doble superior">Habitación doble superior</option>
+            <option value="Habitación Triple">Habitación Triple</option>
+          </select>
+        </li>
+        <li class="form">
+          <label for="numerocama">Indique el número de camas si la habitación es doble o triple:</label>
+          <fieldset>
+            <label for="numerocama">1</label><input type="radio" name="numerocama" id="1" />
+            <label for="numerocama">2</label><input type="radio" name="numerocama" id="2" />
+            <label for="numerocama">3</label><input type="radio" name="numerocama" id="3" />
+          </fieldset>
+        </li>
+        <li class="form">
+          <p>Fecha entrada:</p><input type="date">
+          <p>Fecha salida:</p><input type="date">
+        </li>
+        <li class="form">
+          <label for="arrivalTime">Hora prevista de llegada:</label>
+          <input type="time" id="arrivalTime" name="arrivalTime" required>
+        </li>
+      </ul>
+      <ul>
+        <h3>Opciones adicionales</h3>
+        <li class="form">
+          <label>Parking cubierto:</label>
+          <input type="checkbox" id="parking" name="parking">
+          <label for="parking">Reservar plaza de parking (8€/noche)</label>
+        </li>
+        <li class="form">
+          <label>Añadir desayuno (5€/día):</label>
+          <input type="checkbox" id="breakfast" name="breakfast">
+          <label for="breakfast">Sí</label>
+        </li>
+        <li class="form">
+          <button type="submit" class="form-submit">Enviar Reserva</button>
+        </li>
+      </ul>
+    </form>
+  </div>
+  <footer>
+    <p>Actividad realizada por :<strong>Marc Sabaté Rulduà</strong></p>
+    <p>Fotografía de la portada <a href="https://unsplash.com/" target="_blank">Unsplash</a>
+      <a href="http://creativecommons.org/licenses/by-sa/4.0/" target="_blank">
+        <img src="img/creative-commons.png" style="height: 40px;">
+  </footer>
+
+</body>
+
+</html>
