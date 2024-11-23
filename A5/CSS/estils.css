@@ -1,0 +1,286 @@
+header {
+  background: black;
+  margin: 0;
+  box-sizing: border-box;
+  border: 0;
+}
+
+body {
+  font-family: serif;
+  background-color: darkgray;
+  margin: 0;
+
+}
+
+footer {
+  background-size: 1px;
+  background-color: black;
+  align-content: left;
+  padding-left: 2%;
+  height: 10vh;
+
+}
+
+.textprincipal {
+  color: whitesmoke;
+  font-size: large;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  padding-left: 6%;
+}
+
+.logo {
+  background-size: 1px;
+  background-color: black;
+  align-content: left;
+  padding-left: 2%;
+}
+
+h1 {
+  color: yellow;
+  font-size: 300%;
+  padding-left: 5%;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: 200;
+  text-align: left;
+
+}
+
+h2 {
+  color: yellow;
+  font-size: 150%;
+  padding-left: 5%;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: 200;
+  text-align: left;
+  padding-top: 1%;
+}
+
+h3 {
+  color: yellow;
+  font-size: 125%;
+  padding-left: 5%;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: 200;
+  text-align: left;
+  padding-top: 1%;
+}
+
+nav {
+  text-align: left;
+  color: yellow;
+  font-size: 300%;
+  padding-right: 25%;
+  padding-bottom: 2%;
+
+}
+
+nav li {
+  display: inline;
+  padding: 15px;
+  margin-bottom: 3%;
+  padding-bottom: 2%;
+
+
+}
+
+.fotos {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.fotos img {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  cursor: pointer;
+  border: 2px solid transparent;
+  transition: border-color 0.3s;
+}
+
+.fotos img:hover {
+  border-color: #007BFF;
+}
+
+.imatgegran {
+  max-width: 90%;
+  max-height: 500px;
+  object-fit: contain;
+  margin-top: 20px;
+  border: 3px solid yellow;
+
+}
+
+.posiciofoto {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.enllaç {
+  text-decoration: none;
+  color: yellow;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  padding: 3%;
+  padding-bottom: 2%;
+
+}
+
+.enllaç a {
+  text-decoration: none;
+  color: yellow;
+  padding-bottom: 2%;
+
+}
+
+.enllaç a:hover {
+  color: yellow;
+  text-decoration: none;
+  padding-bottom: 2%;
+
+}
+
+/* JOCS*/
+
+
+.hidden-text {
+  display: none;
+  color: white;
+  font-size: 1rem;
+  margin-top: 10px;
+}
+
+.blockscript.highlighted {
+  background-color: black;
+  color: white;
+  font-family: 'Comic Sans MS', cursive, sans-serif;
+  font-size: 1.2rem;
+  font-style: italic;
+  text-shadow: 2px 2px 5px yellow;
+  letter-spacing: 2px;
+  transition: background-color 0.3s ease, color 0.3s ease, font-family 0.3s ease, text-shadow 0.3s ease;
+}
+
+.blockscript .hidden-text.visible {
+  display: block;
+}
+
+/* Pelis */
+.titoltaula {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+table {
+  width: 60%;
+  border-collapse: collapse;
+  margin: 0 auto;
+  border: 2px solid white !important;
+  border-radius: 10px;
+  overflow: hidden;
+  height: 80vh;
+}
+
+table,
+th,
+td {
+  border: none;
+  padding: 10px;
+  background-color: white;
+}
+
+.peutaula {
+  background-color: #4c5a6b;
+  color: rgb(255, 255, 255);
+  text-align: center;
+  font-size: 15px;
+}
+
+tr.individual td {
+  background-color: rgb(214, 214, 181);
+  color: black;
+}
+
+tr.doble td {
+  background-color: rgb(212, 222, 236);
+  color: black;
+}
+
+tr {
+  border-bottom: 2px solid rgb(236, 230, 230);
+}
+
+td {
+  text-align: center;
+}
+
+.captaula {
+  background-color: rgb(0, 0, 0);
+  color: yellow;
+  padding: 2%;
+}
+
+.rellotge {
+  position: absolute;
+  top: 10px;
+  right: 20px;
+  font-size: 20px;
+  font-weight: bold;
+  font-family: 'Courier New', Courier, monospace;
+  color: yellow;
+  background: rgba(0, 0, 0, 0.7);
+  padding: 10px 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px red;
+  text-align: center;
+  z-index: 1000;
+  transition: all 0.3s ease;
+}
+
+.rellotge:hover {
+  transform: scale(1.1);
+  background: linear-gradient(90deg, red, black);
+  color: #fff;
+  box-shadow: 0 4px 15px red;
+}
+
+.fotoscaratula {
+
+  justify-content: center;
+
+
+
+}
+
+.fotoscaratula img {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  cursor: pointer;
+
+}
+
+.password-container input {
+  flex: 1;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 1rem;
+}
+
+
+.toggle-password {
+  background: none;
+  border: none;
+  cursor: pointer;
+  font-size: 1.5rem;
+  color: #333;
+  transition: color 0.3s;
+}
+
+.toggle-password:hover {
+  color: #ffe600;
+}

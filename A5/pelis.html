@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="ca">
+
+<head>
+  <meta charset="utf-8">
+  <title>SW_Jocs_Pelis</title>
+  <link rel="stylesheet" href="./CSS/estils.css">
+  <script src="./script.js"></script>
+</head>
+
+
+<body>
+  <header>
+    <nav>
+      <li class="logo"><a href="index.html"><img src="./Captura de pantalla de 2024-11-18 13-03-33.png"></a></li>
+      <li class="enllaç"><a href="./index.html">Inici</a></li>
+      <li class="enllaç"><a href="./jocs.html">Jocs</a></li>
+      <li class="enllaç"><a href="./pelis.html">Pel·licules</a></li>
+    </nav>
+  </header>
+  <div id="rellotge" class="rellotge"></div>
+  <div>
+    <p class="titoltaula">
+    <h2>Saga pel·licules en ordre cronologic</h2>
+    </p>
+  </div>
+  <table>
+    <thead>
+      <tr>
+        <th class="captaula">Pel·licula</th>
+        <th class="captaula">Caratula</th>
+        <th class="captaula">Trilogia</th>
+        <th class="captaula">Data estrena</th>
+      </tr>
+    </thead>
+    <tr class="individual">
+      <td>L'amenaça fantasma</td>
+      <td class="fotoscaratula"><img src="./episodi1.jpg"></td>
+      <td>Trilogia 2 (precueles)</td>
+      <td>19 de maig del 1999</td>
+    </tr>
+    <tr>
+      <td>L'atac dels clons</td>
+      <td class="fotoscaratula"><img src="./episodi2.jpg"></td>
+      <td>Trilogia 2 (precueles)</td>
+      <td>17 de maig del 2002</td>
+    </tr>
+    <tr class="individual">
+      <td>Les guerres clon</td>
+      <td class="fotoscaratula"><img src="./The_Clone_Wars_film_poster.webp"></td>
+      <td>Trilogia 2 (Animació)</td>
+      <td>29 d’agost del 2008</td>
+    </tr>
+    <tr>
+      <td>La vengança dels Sith</td>
+      <td class="fotoscaratula"><img src="./episodi3.jpg"></td>
+      <td>Trilogis 2 (precueles)</td>
+      <td>19 de maig del 2005</td>
+    </tr>
+    <tr class="individual">
+      <td>Han Solo</td>
+      <td class="fotoscaratula"><img src="./Han_Solo_Una_historia_de_Star_Wars-540929627-large.jpg"></td>
+      <td>Trilogia 1 (original)</td>
+      <td>10 de maig del 2018</td>
+    </tr>
+    <tr>
+      <td>Rogue ONE</td>
+      <td class="fotoscaratula"><img src="./rogue_one.jpg"></td>
+      <td>Trilogia 1 (original)</td>
+      <td>16 de desembre de 2016</td>
+    </tr>
+    <tr class="individual">
+      <td>Una nova esperança</td>
+      <td class="fotoscaratula"><img src="./episodi4.jpg"></td>
+      <td>Trilogia 1 (original)</td>
+      <td>25 de maig del 1977</td>
+    </tr>
+    <tr>
+      <td>L'imperi contraataca</td>
+      <td class="fotoscaratula"><img src="episodi5.jpg"></td>
+      <td>Trilogia 1 (original)</td>
+      <td>21 de maig de 1980</td>
+    </tr>
+    <tr class="individual">
+      <td>El retorn del jedi</td>
+      <td class="fotoscaratula"><img src="./episodi6.jpg"></td>
+      <td>Trilogia 1 (original)</td>
+      <td>25 de maig del 1983</td>
+    </tr>
+    <tr>
+      <td>El despertar de la força</td>
+      <td class="fotoscaratula"><img src="./episodi7.jpg"></td>
+      <td>Trilogia 3 (secueles)</td>
+      <td>18 de desembre del 2015</td>
+    </tr>
+    <tr class="individual">
+      <td>Es últims jedi</td>
+      <td class="fotoscaratula"><img src="./episodi8.jpg"></td>
+      <td>Trilogia 3 (secueles)</td>
+      <td>15 de desembre del 2017</td>
+    </tr>
+    <tr>
+      <td>L'ascens dels Skywalker</td>
+      <td class="fotoscaratula"><img src="./episodi9.jpg"></td>
+      <td>Trilogia 3 (secueles)</td>
+      <td>20 de desembre del 2019</td>
+    </tr>
+  </table>
+  <div class="blockabout">
+    <h2>Validació de la força ets un jedi? Valida la teva força (contrasenya)</h2>
+    <form id="passwordForm">
+      <label for="password1">Contrasenya:</label>
+      <div class="password-container">
+        <input type="password" id="password1" required minlength="8">
+        <button type="button" class="toggle-password" onclick="togglePasswordVisibility('password1', this)">
+
+        </button>
+      </div>
+      <label for="password2">Repeteix la Contrasenya:</label>
+      <div class="password-container">
+        <input type="password" id="password2" required minlength="8">
+        <button type="button" class="toggle-password" onclick="togglePasswordVisibility('password2', this)">
+
+        </button>
+      </div>
+      <button type="button" class="cosmic-button" onclick="validatePassword()">Enviar</button>
+
+      <footer>
+        <h2>Web creada per <strong>Marc Sabaté Rulduà.</strong> I que la força t'acompanyi!</h2>
+      </footer>
+</body>
+
+
+
+</html>
