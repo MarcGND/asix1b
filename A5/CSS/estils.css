@@ -15,7 +15,6 @@ body {
 footer {
   background-size: 1px;
   background-color: black;
-  align-content: left;
   padding-left: 2%;
   height: 10vh;
 
@@ -30,8 +29,7 @@ footer {
 
 .logo {
   background-size: 1px;
-  background-color: black;
-  align-content: left;
+  background-color: black;  
   padding-left: 2%;
 }
 
