@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<receptes>
+    <recepta id="1">
+        <nom>Pastís de xocolata</nom>
+        <ingredients>6 rovells d'ou</ingredients>
+        <ingredients>6 clares</ingredients>
+        <ingredients>150g de sucre</ingredients>
+        <ingredients>200g de xocolata negra</ingredients>
+        <ingredients>50g de mantega</ingredients>
+        <ingredients>farina</ingredients>
+        <ingredients>nata muntada</ingredients>
+        <ingredients>cacau en pols</ingredients>
+        <preparacio>Per començar, barregeu eñs rovells d'ou amb el sucre en un bol. Mentresant, foneu la cobertura de xocolata al bany maria. Quan la xocolata s'hagi desfet, afegiu-hi la mantega i remeneu-ho. Tot seguit, munteu les clares que haurieu tingut a la nevera perquè es muntin bé. A continuació, barregeu la xocolata, els rovells i el sucre i les clares muntades. Remeneu-ho i poseu-ho en un motllo per al forn. Deixeu-ho coire al forn 180 graus durant 30 min. Després, deixeu refredar el pastís, desmmotlleu-lo i emplateu-lo. I ja per acabar, decoreu-lo amb nata mundata i cacau en pols.</preparacio>
+        <notes>Recepta del programa de TV3 Cuines, del restaurant Les Petxines</notes>
+        <autor>Bàrbara Casanovas</autor>
+        <autor>Adrià Ruscalleda</autor>
+        <etiquetes>Postre</etiquetes>
+        <etiquetes>Dolços</etiquetes>
+        <etiquetes>Forn</etiquetes>
+        <etiquetes>Aniversari</etiquetes>
+        <etiquetes>Fàcil</etiquetes>
+        <etiquetes>Econòmic</etiquetes>
+    </recepta>
+    <recepta id="2">
+        <nom>Volca de xocolata</nom>
+        <ingredients>4 ous</ingredients>
+        <ingredients>4 rovells</ingredients>
+        <ingredients>80g de sucre</ingredients>
+        <ingredients>220g de mantega</ingredients>
+        <ingredients>220g de xocolata</ingredients>
+        <ingredients>60g de farina</ingredients>
+        <preparacio>1- Foneu al bany maria la xocolata i la mantega. Un cop fora del foc. 2- Munteu les clares, afegint-hi el sucre, quan comencin a agafar cos. 3-Barregeu la meitat de les clares muntades amb la xocolata. Incorporeu-hi la farina i la resta de les clares. 4-Pinteu motlles individuals amb mantega i farina, farciu-los amb la pasta fins a la meitat i dsposeu al centre un dau de xocolata. Acabeu de farcir una mica més els motlles per amagar el dau de xocolata. 5-Coeu a 220º (forn només amb escalfor baix) durant uns 10 minuts aproximadament. 6- Servir calent, empolvorat de sucre llustre i acompanyat d'una salseta o de gelat.</preparacio>
+        <autor>Anna</autor>
+        <etiquetes>Postre</etiquetes>
+        <etiquetes>Dolços</etiquetes>
+        <etiquetes>Festa</etiquetes>
+        <etiquetes>Fàcil</etiquetes>
+        <etiquetes>Econòmic</etiquetes>
+        <etiquetes>Catalana</etiquetes>
+        <etiquetes>Preparacio: 30minuts</etiquetes>
+        <etiquetes>Cost: 15€</etiquetes>
+        <etiquetes>220 calories</etiquetes>
+    </recepta>
+    <recepta id="3">           
+        <nom>Pastís de formatge</nom>
+        <ingredients>2 terrines de formatge Philadelphia (200-300gr.)</ingredients>
+        <ingredients>3 ous</ingredients>
+        <ingredients>3 iogurts naturals</ingredients>
+        <ingredients>3 cullerades (grans) de farina</ingredients>
+        <ingredients>10 0 12 culleretes (petites) de sucre</ingredients>
+        <ingredients>Un parell de galetes maria o chiquilín</ingredients>
+        <preparacio>El primer que hem de fer és escalfar el forn a 200 graus. Buidem les terrines de Philadelphia en un bol i remenem bé el formatge. Agafem els 3 ous, els afegim i els remenem amb formatge. Ara afegim els 3 iogurts naturals a la barreja i tornem a remenar. Quan tinguim una pasta homogènia, hi posem la farina i el sucre i ho remenem tot fins que no queden grumolls. Preparem el motlle untant-lo bé amb mantega. Triturem les galetes i les repartim per tota la base del motlle. Seguidament, hi evoquem la barreja que ja tenim preparada. Baixem el forn a 170º o hi col·loquem el pastís. Esperem uns 20 o 30 minuts. Com que la cocció depèn de la potència del forn, la millor manera per saber si el pastís està fer és punxar-lo pel mig amb algún instrumet en forma de punxa, o escuradents: quan en surti net vol dir que ja tenim el pastís enllestit. El deixem refredar i el retirem del motlle. Ens el podem menjar sol o bé afegir-li una capa molt fina de mermelada de maduixa o gerds. Ja veureu quina delicia!!!</preparacio>
+        <notes>Una delícia pels més formatgers!!!</notes>
+        <autor>Eulalia</autor>
+        <etiquetes>Postre</etiquetes>
+    </recepta>
+</receptes>
