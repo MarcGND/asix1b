@@ -1,0 +1,27 @@
+[
+    {
+        "ordinador": 1,
+        "placa_base":"ASUS Prime B450M-A",
+        "processador":"AMD Ryzen 5 3600",
+        "memoria_ram": "Corsair Vengeance LPX 8GB DDR4",
+        "quantitat_ram": 2,
+        "disc_dur": "Western Digital Blue 1TB SATA",
+        "targeta_grafica": "NVIDIA GTX 1650",
+        "targeta_so":"Creative Sound Blaster Audigy FX",
+        "preu": 575
+        
+        
+    },
+    {
+        "ordinador": 2,
+        "placa_base":"MSI B550-A PRO",
+        "processador":"Intel Core i5-10400",
+        "memoria_ram": "Kingston HyperX Fury 16GB DDR4",
+        "quantitat_ram": 2,
+        "disc_dur": "Seagate Barracuda 2TB SATA",
+        "targeta_grafica": "AMD Radeon RX 580",
+        "targeta_so":"Asus Xonar SE",
+        "preu": 740
+        
+    }
+]

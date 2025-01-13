@@ -1,0 +1,268 @@
+[
+    {
+        "jornada":1,
+        "partits":[{
+            "local": "R.Socidedad",
+            "visitant":"Getafe",
+            "golslocal":2,
+            "golsvisitant":0            
+        },
+        {
+            "local": "Valencia",
+            "visitant":"Malaga",
+            "golslocal":1,
+            "golsvisitant":0            
+        },
+        {
+            "local": "Osasuna",
+            "visitant":"Granada",
+            "golslocal":1,
+            "golsvisitant":2            
+        },
+        {
+            "local": "Sevilla",
+            "visitant":"Atletico",
+            "golslocal":1,
+            "golsvisitant":3            
+        },
+        {
+            "local":"Celta",
+            "visitant":"Espanyol",
+            "golslocal":2,
+            "golsvisitant":2
+        },
+        {
+            "local":"Valladolid",
+            "visitant":"Athletic",
+            "golslocal":1,
+            "golsvisitant":2
+        },
+        {
+            "local":"Barcelona",
+            "visitant":"Levante",
+            "golslocal":7,
+            "golsvisitant":0
+        },
+        {
+            "local":"R.Madrid",
+            "visitant":"Betis",
+            "golslocal":2,
+            "golsvisitant":1
+        },
+        {
+            "local":"Rayo",
+            "visitant":"Elche",
+            "golslocal":3,
+            "golsvisitant":0
+        },
+        {
+            "local":"Almeria",
+            "visitant":"Villareal",
+            "golslocal":2,
+            "golsvisitant":3
+        }
+
+        ]
+
+    },
+    {
+        "jornada":2,
+        "partits":[{
+            "local": "Getafe",
+            "visitant":"Almeria",
+            "golslocal":2,
+            "golsvisitant":2            
+        },
+        {
+            "local": "Elche",
+            "visitant":"R.Sociedad",
+            "golslocal":1,
+            "golsvisitant":1            
+        },
+        {
+            "local": "Villareal",
+            "visitant":"Valladolid",
+            "golslocal":2,
+            "golsvisitant":1            
+        },
+        {
+            "local": "Malaga",
+            "visitant":"Barcelona",
+            "golslocal":0,
+            "golsvisitant":1            
+        },
+        {
+            "local":"Betis",
+            "visitant":"Celta",
+            "golslocal":1,
+            "golsvisitant":2
+        },
+        {
+            "local":"Athletic",
+            "visitant":"Osasuna",
+            "golslocal":2,
+            "golsvisitant":0
+        },
+        {
+            "local":"Espanyol",
+            "visitant":"Valencia",
+            "golslocal":3,
+            "golsvisitant":1
+        },
+        {
+            "local":"Atletico",
+            "visitant":"Rayo",
+            "golslocal":5,
+            "golsvisitant":0
+        },
+        {
+            "local":"Levante",
+            "visitant":"Sevilla",
+            "golslocal":0,
+            "golsvisitant":0
+        },
+        {
+            "local":"Granada",
+            "visitant":"R.Madrid",
+            "golslocal":0,
+            "golsvisitant":1
+        }
+
+        ]
+
+    },
+    {
+        "jornada":3,
+        "partits":[{
+            "local": "Rayo",
+            "visitant":"Levante",
+            "golslocal":1,
+            "golsvisitant":2            
+        },
+        {
+            "local": "Celta",
+            "visitant":"Granada",
+            "golslocal":1,
+            "golsvisitant":1  
+        },
+        {
+            "local": "Osasuna",
+            "visitant":"Villareal",
+            "golslocal":0,
+            "golsvisitant":3  
+        },        
+        {
+            "local": "Espanyol",
+            "visitant":"Betis",
+            "golslocal":0,
+            "golsvisitant":0  
+        },
+        {
+            "local": "Valencia",
+            "visitant":"Barcelona",
+            "golslocal":2,
+            "golsvisitant":3  
+        },
+        {
+            "local": "Almeria",
+            "visitant":"Elche",
+            "golslocal":2,
+            "golsvisitant":2  
+        },
+        {
+            "local": "Valladolid",
+            "visitant":"Getafe",
+            "golslocal":1,
+            "golsvisitant":0
+        },
+        {
+            "local": "R.Madrid",
+            "visitant":"Athletic",
+            "golslocal":3,
+            "golsvisitant":1  
+        },
+        {
+            "local": "R.Socidedad",
+            "visitant":"Atletico",
+            "golslocal":1,
+            "golsvisitant":2  
+        },
+        {
+            "local": "Sevilla",
+            "visitant":"Malaga",
+            "golslocal":0,
+            "golsvisitant":1  
+        }
+    ]
+    },
+    {
+        "jornada":4,
+        "partits":[{
+            "local": "Atletico",
+            "visitant":"Almeria",
+            "golslocal":4,
+            "golsvisitant":2            
+        },
+        {
+            "local": "Barcelona",
+            "visitant":"Sevilla",
+            "golslocal":3,
+            "golsvisitant":2  
+        },
+        {
+            "local": "Granada",
+            "visitant":"Espanyol",
+            "golslocal":0,
+            "golsvisitant":1  
+        },
+        {
+            "local": "Malaga",
+            "visitant":"Rayo",
+            "golslocal":5,
+            "golsvisitant":0  
+        },
+        {
+            "local": "Elche",
+            "visitant":"Valladolid",
+            "golslocal":0,
+            "golsvisitant":0  
+        },
+        {
+            "local": "Levante",
+            "visitant":"R.Sociedad",
+            "golslocal":0,
+            "golsvisitant":0  
+        },
+        {
+            "local": "Villareal",
+            "visitant":"R.Madrid",
+            "golslocal":2,
+            "golsvisitant":2  
+        },
+        {
+            "local": "Getafe",
+            "visitant":"Osasuna",
+            "golslocal":2,
+            "golsvisitant":1  
+        },
+        {
+            "local": "Betis",
+            "visitant":"Valencia",
+            "golslocal":3,
+            "golsvisitant":1  
+        },
+        {
+            "local": "Athletic",
+            "visitant":"Celta",
+            "golslocal":3,
+            "golsvisitant":2  
+        }
+
+        ]
+
+    }
+
+]
+
+
+

@@ -1,0 +1,55 @@
+﻿[
+    {
+        "titol":"Still go the blues",
+        "artista":"Gary Moore",
+        "pais":"UK",
+        "discografica":"Virgin records",
+        "preu":"10.20",
+        "any":"1990"
+    },
+
+    {
+        "titol":"One night only",
+        "artista":"Bee Gees",
+        "pais":"UK",
+        "discografica":"Polydor",
+        "preu":"10.90",
+        "any":"1998"
+    },
+
+    {
+        "titol":"When a man loves a woman",
+        "artista":"Percy Sledge",
+        "pais":"USA",
+        "discografica":"Atlantic",
+        "preu":"8.70",
+        "any":"1987"  
+    },
+
+    {
+        "titol":"Big Willie style",
+        "artista":"Will Smith",
+        "pais":"USA",
+        "discografica":"Columbia",
+        "preu":"9.90",
+        "any":"1997" 
+    },
+
+    {
+        "titol":"La canción de Juan Perro",
+        "artista":"Radio Futura",
+        "pais":"Espanya",
+        "discografica":"Sony Musica-Ariola",
+        "preu":"9.90",
+        "any":"1987" 
+    },
+
+    {
+        "titol":"The dock of the bay",
+        "artista":"Otis Redding",
+        "pais":"USA",
+        "discografica":"Atlantic",
+        "preu":"7.90",
+        "any":"1987" 
+    }
+]
