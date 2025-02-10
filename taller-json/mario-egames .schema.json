@@ -1,0 +1,39 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "title": "Mario Egames",
+    "description": "Resultats de la cursa de Mario Egames",
+    "type": "object",
+    "properties": {
+        "circuit": {
+            "type": "string",
+            "enum": ["Prado Rosquilla", "Cataratas Yoshi", "Barranco Goloso", "Fabrica Toad"]
+            
+    },
+        "Classificació": {
+            "type": "array",
+            "minItems": 2,
+            "maxItems": 20,
+            "items": {
+                "posicio": { "type": "integer" },
+                "nick-player": { "type": "string" },
+                "personatge": { "type": "string" },
+                "color": { 
+                    "type": "string",
+                    "enum": ["blanc", "negre", "groc", "blau", "roig", "verd", "taronja", "lila", "rosa"]
+            },
+                
+                "Temps": { "type": "string", "pattern": "^\\d{1,2}:\\d{2}$" },
+                    "voltes": { "type": "integer", "minimum": 0, "maximum": 5 },
+                    "Accidents": { "type": "integer", "minimum": 0 },
+                    "Nitros": { "type": "integer", "minimum": 0 },
+                    "Rookie": {
+                        "type": "string",
+                        "enum": ["SI", "NO"]
+                    }
+                },
+                "required": ["posició", "nick-player", "personatge", "Temps", "voltes", "Accidents"]
+            }
+        }
+ }
+
+
