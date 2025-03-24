@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="ca">
+    <head>
+        <meta charset="utf-8">
+        <title>Dades obertes</title>
+        <link rel="stylesheet" href="dadesobertes.css">
+    </head>
+    <body>
+        <h1>Recursos de dades obertes</h1>
+        <div id="output"></div>
+        <script>
+            fetch("dadesobertes_pg.json")
+                .then(response => response.json())
+                .then(data => {
+                    document.getElementByID("output").innerHTML = `
+                    <h2>Previsió del dia:</h2>
+                    <p>${data[0].versio.variables.estatdelcel}</p>
+                    <p>${data[0].versio.variables.precipitacions}</p>
+                    <p>${data[0].versio.variables.temperatura}</p>
+                    <p>${data[0].versio.variables.visibilitat}</p>
+                    <p>${data[0].versio.variables.vent}</p>
+                    <h2>Previsió del dia:</h2>
+                    <p>${data[1].versio.variables.estatdelcel}</p>
+                    <p>${data[1].versio.variables.precipitacions}</p>
+                    <p>${data[1].versio.variables.temperatura}</p>
+                    <p>${data[1].versio.variables.visibilitat}</p>
+                    <p>${data[1].versio.variables.vent}</p>
+                    <h2>Previsió del dia:</h2>
+                    <p>${data[2].versio.variables.estatdelcel}</p>
+                    <p>${data[2].versio.variables.precipitacions}</p>
+                    <p>${data[2].versio.variables.temperatura}</p>
+                    <p>${data[2].versio.variables.visibilitat}</p>
+                    <p>${data[2].versio.variables.vent}</p>
+                    `;
+                })
+               
+                
+                .catch(error => console.error(error));
+                    document.getElementByID("output").innerHTML = "Error al carregar"
+                    console.error("Error al carregar", error);
+                          
+                                
+        </script>
+    </body>
+</html>

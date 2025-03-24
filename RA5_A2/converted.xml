@@ -1,0 +1,4991 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+   <crs>
+      <properties>
+         <name>urn:ogc:def:crs:EPSG::25830</name>
+      </properties>
+      <type>name</type>
+   </crs>
+   <features>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>372300.8332652</element>
+               <element>4063998.83388105</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_b3</id>
+         <properties>
+            <DESCRIPCION>Perchel (Convento San Andrés)</DESCRIPCION>
+            <DIRECCION>CALLE ESLAVA, 8 </DIRECCION>
+            <ID>76357</ID>
+            <NOMBRE>COLONIAFELINA-106</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>-4.42877683</element>
+               <element>36.73189217</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_b4</id>
+         <properties>
+            <DESCRIPCION>Plaza Conde de Ferrería - C/ Salvador Dalí - C/  Godino / Virgen de la Esperanza. Palma - Palmilla</DESCRIPCION>
+            <DIRECCION>PLAZA CONDE DE FERRERÍA, 27A</DIRECCION>
+            <ID>77712</ID>
+            <NOMBRE>COLONIAFELINA-112</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>373712.29656193</element>
+               <element>4065958.84693995</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_b5</id>
+         <properties>
+            <DESCRIPCION>Calle  Fernando El Católico, esq. Calle  Ladrón de Guevara</DESCRIPCION>
+            <DIRECCION>CALLE FERNANDO EL CATÓLICO, 46 </DIRECCION>
+            <ID>76313</ID>
+            <NOMBRE>COLONIAFELINA-22</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>373825.45603245</element>
+               <element>4066560.2817151</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_b6</id>
+         <properties>
+            <DESCRIPCION>(Venta Vázquez)</DESCRIPCION>
+            <DIRECCION>CAMINO COLMENAR, 82 </DIRECCION>
+            <ID>76337</ID>
+            <NOMBRE>COLONIAFELINA-61</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>374453.01981391</element>
+               <element>4065227.8526144</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_b7</id>
+         <properties>
+            <DESCRIPCION>(zona de campo)</DESCRIPCION>
+            <DIRECCION>CAMINO GIBRALFARO, 7 </DIRECCION>
+            <ID>76384</ID>
+            <NOMBRE>COLONIAFELINA-136</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>-4.41233691</element>
+               <element>36.73878572</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_b8</id>
+         <properties>
+            <DESCRIPCION>Ctra.del Colmenar, Km.555, Urb. Los Montes - Valseca (frente a Venta los Tres Cincos)</DESCRIPCION>
+            <DIRECCION>CAMINO COLMENAR, 122 </DIRECCION>
+            <ID>77710</ID>
+            <NOMBRE>COLONIAFELINA-102</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>378420.79921206</element>
+               <element>4065129.59448757</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_b9</id>
+         <properties>
+            <DESCRIPCION null="true" />
+            <DIRECCION>CALLE EL PALUSTRE, 1 </DIRECCION>
+            <ID>76417</ID>
+            <NOMBRE>COLONIAFELINA-191</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>378295.72828049</element>
+               <element>4064866.0551731</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_ba</id>
+         <properties>
+            <DESCRIPCION null="true" />
+            <DIRECCION>CALLE LUIS TABOADA, 1 </DIRECCION>
+            <ID>76472</ID>
+            <NOMBRE>COLONIAFELINA-289</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>-4.40362291</element>
+               <element>36.72667141</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_bb</id>
+         <properties>
+            <DESCRIPCION>c/ Sierra del Co y carril castell  LIMONAR</DESCRIPCION>
+            <DIRECCION>CARRIL DE CASTELL, 34 </DIRECCION>
+            <ID>77754</ID>
+            <NOMBRE>COLONIAFELINA-287</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>-4.40491186</element>
+               <element>36.72597312</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_bc</id>
+         <properties>
+            <DESCRIPCION>Calle  Sierra Co  - Calle  Revello de Toro - Paseo Salvador Rueda - Gibralfaro</DESCRIPCION>
+            <DIRECCION>PASEO DE SALVADOR RUEDA, 57 </DIRECCION>
+            <ID>77751</ID>
+            <NOMBRE>COLONIAFELINA-254</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>-4.35793546</element>
+               <element>36.72991841</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_bd</id>
+         <properties>
+            <DESCRIPCION>Calle  José María Alonso/Reina Juliana. Miraflores Palo</DESCRIPCION>
+            <DIRECCION>CALLE MAESTRO SOLANO, 1 </DIRECCION>
+            <ID>77691</ID>
+            <NOMBRE>COLONIAFELINA-14</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>374118.71603729</element>
+               <element>4064859.31657486</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_be</id>
+         <properties>
+            <DESCRIPCION>(descampado). La Malagueta</DESCRIPCION>
+            <DIRECCION>CALLE CAMPOS ELÍSEOS, 1 </DIRECCION>
+            <ID>76335</ID>
+            <NOMBRE>COLONIAFELINA-59</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>-4.40508755</element>
+               <element>36.72539161</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_bf</id>
+         <properties>
+            <DESCRIPCION>C/Federico Fellini, C/ pergolesi, c/ miguel indurain, C/ linguista miguel seco</DESCRIPCION>
+            <DIRECCION>CALLE APAMARES, 32 </DIRECCION>
+            <ID>77739</ID>
+            <NOMBRE>COLONIAFELINA-216</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>-4.40508755</element>
+               <element>36.72539161</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_c0</id>
+         <properties>
+            <DESCRIPCION>Calle Apamares, Camino del Monte, Monte de Sancha, Ramal Monte de Sancha</DESCRIPCION>
+            <DIRECCION>CALLE APAMARES, 32 </DIRECCION>
+            <ID>77740</ID>
+            <NOMBRE>COLONIAFELINA-217</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>361110.84403753</element>
+               <element>4051403.86941296</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_c1</id>
+         <properties>
+            <DESCRIPCION null="true" />
+            <DIRECCION>CALLE ALTEAS, 1 </DIRECCION>
+            <ID>76310</ID>
+            <NOMBRE>COLONIAFELINA-18</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>377474.22508899</element>
+               <element>4066228.74344707</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_c2</id>
+         <properties>
+            <DESCRIPCION null="true" />
+            <DIRECCION>CALLE ESCRITOR MANUEL SOLANO, 1 </DIRECCION>
+            <ID>76461</ID>
+            <NOMBRE>COLONIAFELINA-269</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>379233.34361543</element>
+               <element>4065138.01745506</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_c3</id>
+         <properties>
+            <DESCRIPCION null="true" />
+            <DIRECCION>CALLE BAILAORA CARMEN AMAYA, 1 </DIRECCION>
+            <ID>76470</ID>
+            <NOMBRE>COLONIAFELINA-285</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>372271.78680143</element>
+               <element>4067047.13014796</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_c4</id>
+         <properties>
+            <DESCRIPCION null="true" />
+            <DIRECCION>CALLE EUME, 1 </DIRECCION>
+            <ID>76406</ID>
+            <NOMBRE>COLONIAFELINA-174</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>373040.84461967</element>
+               <element>4068269.70542558</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_c5</id>
+         <properties>
+            <DESCRIPCION null="true" />
+            <DIRECCION>CALLE MAESE NICOLÁS, 1 </DIRECCION>
+            <ID>76390</ID>
+            <NOMBRE>COLONIAFELINA-147</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>-4.41277471</element>
+               <element>36.71711239</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_c6</id>
+         <properties>
+            <DESCRIPCION>Paseo la Farola - Rocas pasado club Mediterráneo, inicio Paseo de Levante</DESCRIPCION>
+            <DIRECCION>PASEO DE LA FAROLA, 10A</DIRECCION>
+            <ID>77752</ID>
+            <NOMBRE>COLONIAFELINA-255</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>375250.92851742</element>
+               <element>4065654.38240101</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_c7</id>
+         <properties>
+            <DESCRIPCION>Calle Goethe y Avda. de las Caballerizas (El Limonar)</DESCRIPCION>
+            <DIRECCION>CALLE GOETHE, 12 </DIRECCION>
+            <ID>76411</ID>
+            <NOMBRE>COLONIAFELINA-179</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>372777.43331391</element>
+               <element>4063822.80297948</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_c8</id>
+         <properties>
+            <DESCRIPCION>Muelle 5, Zona Astilleros Mario López</DESCRIPCION>
+            <DIRECCION>PUENTE DE ANTONIO MACHADO, 1 </DIRECCION>
+            <ID>77750</ID>
+            <NOMBRE>COLONIAFELINA-250</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>369049.46895883</element>
+               <element>4066391.83062031</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_c9</id>
+         <properties>
+            <DESCRIPCION>El Atabal (dentro de la universidad laboral)</DESCRIPCION>
+            <DIRECCION>CALLE JULIO VERNE, 6 </DIRECCION>
+            <ID>76437</ID>
+            <NOMBRE>COLONIAFELINA-229</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>369028.79911279</element>
+               <element>4066414.33682408</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_ca</id>
+         <properties>
+            <DESCRIPCION>(entre Col.Los Olivos y Universidad Laboral)</DESCRIPCION>
+            <DIRECCION>CALLE JULIO VERNE, 8 </DIRECCION>
+            <ID>76400</ID>
+            <NOMBRE>COLONIAFELINA-162</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>369787.31559874</element>
+               <element>4062473.73983018</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_cb</id>
+         <properties>
+            <DESCRIPCION>Calle Calerito-Calle Jerusalén.Nuevo San Andrés</DESCRIPCION>
+            <DIRECCION>CALLE JERUSALÉN, 15 </DIRECCION>
+            <ID>77719</ID>
+            <NOMBRE>COLONIAFELINA-148</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>367027.61146876</element>
+               <element>4067536.40990811</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_cc</id>
+         <properties>
+            <DESCRIPCION>Puerto de la Torre (zona de chalets)</DESCRIPCION>
+            <DIRECCION>CALLE DE LA ATLÁNTIDA, 11 </DIRECCION>
+            <ID>76347</ID>
+            <NOMBRE>COLONIAFELINA-84</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>371899.89581142</element>
+               <element>4063604.7489091</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_cd</id>
+         <properties>
+            <DESCRIPCION>Calle  Edward - Ferrocarril y alrededores (solar tapiado)</DESCRIPCION>
+            <DIRECCION>CALLE EDWARD ELGAR, 1 </DIRECCION>
+            <ID>76319</ID>
+            <NOMBRE>COLONIAFELINA-35</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>-4.44278818</element>
+               <element>36.69921914</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_ce</id>
+         <properties>
+            <DESCRIPCION>Av. La Paloma, C/manuel Assiego Codes, C/ Vicente Alexandre, C/Luis Guirado</DESCRIPCION>
+            <DIRECCION>CALLE MANUEL ASSIEGO CODES, 88 </DIRECCION>
+            <ID>77698</ID>
+            <NOMBRE>COLONIAFELINA-65</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>373459.88309146</element>
+               <element>4067558.0079708</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_cf</id>
+         <properties>
+            <DESCRIPCION null="true" />
+            <DIRECCION>CALLE MOSCATEL, 8 </DIRECCION>
+            <ID>76318</ID>
+            <NOMBRE>COLONIAFELINA-33</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>370853.32526809</element>
+               <element>4061495.21172615</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_d0</id>
+         <properties>
+            <DESCRIPCION null="true" />
+            <DIRECCION>AVENIDA DE LOS GUINDOS, 33 </DIRECCION>
+            <ID>76350</ID>
+            <NOMBRE>COLONIAFELINA-89</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>368400.8074821</element>
+               <element>4066936.36306894</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_d1</id>
+         <properties>
+            <DESCRIPCION null="true" />
+            <DIRECCION>CALLE CÉLEBES BARAT, 25 </DIRECCION>
+            <ID>76407</ID>
+            <NOMBRE>COLONIAFELINA-172</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>370350.39358489</element>
+               <element>4061876.57953857</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_d2</id>
+         <properties>
+            <DESCRIPCION>Carril de Los Guindos esquina con calle Calanas (nave abandonada)</DESCRIPCION>
+            <DIRECCION>CAMINO DE LOS GUINDOS, 10 </DIRECCION>
+            <ID>76320</ID>
+            <NOMBRE>COLONIAFELINA-36</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>370702.15890793</element>
+               <element>4062504.0822212</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_d3</id>
+         <properties>
+            <DESCRIPCION>El Torcal, Ctra.de Cádiz</DESCRIPCION>
+            <DIRECCION>CALLE ANTONIO CHACÓN, 1 </DIRECCION>
+            <ID>76426</ID>
+            <NOMBRE>COLONIAFELINA-206</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>377715.53837205</element>
+               <element>4065752.60627113</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_d4</id>
+         <properties>
+            <DESCRIPCION>Pinares San Antón</DESCRIPCION>
+            <DIRECCION>CALLE IVÁN TURGUÉNIEV, 1 </DIRECCION>
+            <ID>76381</ID>
+            <NOMBRE>COLONIAFELINA-133</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>366888.0181497</element>
+               <element>4065037.67483585</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_d5</id>
+         <properties>
+            <DESCRIPCION null="true" />
+            <DIRECCION>CALLE JOSÉ MARÍA GONZÁLEZ RUIZ, 1 </DIRECCION>
+            <ID>76409</ID>
+            <NOMBRE>COLONIAFELINA-178</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>364513.8270624</element>
+               <element>4059758.75945166</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_d6</id>
+         <properties>
+            <DESCRIPCION>estan por los patios de todos los vecinos</DESCRIPCION>
+            <DIRECCION>CALLE DECANO OLMO Y AYALA, 48 </DIRECCION>
+            <ID>76479</ID>
+            <NOMBRE>COLONIAFELINA-299</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>368005.20884183</element>
+               <element>4067648.92491886</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_d7</id>
+         <properties>
+            <DESCRIPCION null="true" />
+            <DIRECCION>CALLE DE FREUD, 1 </DIRECCION>
+            <ID>76419</ID>
+            <NOMBRE>COLONIAFELINA-194</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>371584.74799363</element>
+               <element>4063257.74156846</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_d8</id>
+         <properties>
+            <DESCRIPCION null="true" />
+            <DIRECCION>CALLE DOMINGO DE ORUETA, 1 </DIRECCION>
+            <ID>76392</ID>
+            <NOMBRE>COLONIAFELINA-149</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>-4.43811285</element>
+               <element>36.71375462</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_d9</id>
+         <properties>
+            <DESCRIPCION>Calle  Calatrava.Cruz de Humilladero (solar frente biblioteca)</DESCRIPCION>
+            <DIRECCION>CALLE CALATRAVA, 15 </DIRECCION>
+            <ID>77720</ID>
+            <NOMBRE>COLONIAFELINA-151</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>370689.22096376</element>
+               <element>4065376.63579501</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_da</id>
+         <properties>
+            <DESCRIPCION>Carlos Haya</DESCRIPCION>
+            <DIRECCION>CALLE ENCARNACIÓN FONTIVEROS, 1 </DIRECCION>
+            <ID>76326</ID>
+            <NOMBRE>COLONIAFELINA-43</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>366458.54492233</element>
+               <element>4067099.57279131</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_db</id>
+         <properties>
+            <DESCRIPCION>Puerto Sol</DESCRIPCION>
+            <DIRECCION>CALLE CERRAJA, 1 </DIRECCION>
+            <ID>76478</ID>
+            <NOMBRE>COLONIAFELINA-298</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>-4.47196418</element>
+               <element>36.70463435</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_dc</id>
+         <properties>
+            <DESCRIPCION>Calle  Alfarnatejo - Calle  Burgo Polígono San Luis rotonda principal</DESCRIPCION>
+            <DIRECCION>CALLE ALFARNATEJO, 32 </DIRECCION>
+            <ID>77695</ID>
+            <NOMBRE>COLONIAFELINA-52</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>370882.15789244</element>
+               <element>4062024.5635063</element>
+               <element>4062024.5635063</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_dd</id>
+         <properties>
+            <DESCRIPCION null="true" />
+            <DIRECCION>CALLE GUILLERMO CARRERA RUBIO, 11 </DIRECCION>
+            <ID>76164</ID>
+            <NOMBRE>COLONIAFELINA-1</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>370848.63170855</element>
+               <element>4062144.50858689</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_de</id>
+         <properties>
+            <DESCRIPCION>Parque Mediterráneo</DESCRIPCION>
+            <DIRECCION>CALLE EDUARDO DE PALACIO, 1 </DIRECCION>
+            <ID>76343</ID>
+            <NOMBRE>COLONIAFELINA-77</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>370203.52806695</element>
+               <element>4065091.89681152</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_df</id>
+         <properties>
+            <DESCRIPCION>Calle Ruy López - Urb. Alfonso X y alrededores (Carlos Haya)</DESCRIPCION>
+            <DIRECCION>CALLE RUY LÓPEZ, 1 </DIRECCION>
+            <ID>76415</ID>
+            <NOMBRE>COLONIAFELINA-188</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>367474.13961145</element>
+               <element>4057810.89575476</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_e0</id>
+         <properties>
+            <DESCRIPCION>Calle Victoria de los Ángeles, frente a Parking de Ikea y Plza Mayor</DESCRIPCION>
+            <DIRECCION>CALLE ALFREDO KRAUS, 2 </DIRECCION>
+            <ID>77769</ID>
+            <NOMBRE>COLONIAFELINA-200</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>366841.16771801</element>
+               <element>4066465.84590424</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_e1</id>
+         <properties>
+            <DESCRIPCION>Pto de la Torre (arroyo)</DESCRIPCION>
+            <DIRECCION>AVENIDA ROCÍO JURADO, 1 </DIRECCION>
+            <ID>76375</ID>
+            <NOMBRE>COLONIAFELINA-127</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>365272.19577918</element>
+               <element>4068975.35970639</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_e2</id>
+         <properties>
+            <DESCRIPCION null="true" />
+            <DIRECCION>CAMINO CUESTA DE LANZA, 1 </DIRECCION>
+            <ID>76439</ID>
+            <NOMBRE>COLONIAFELINA-232</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>367959.18199652</element>
+               <element>4068750.50111556</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_e3</id>
+         <properties>
+            <DESCRIPCION null="true" />
+            <DIRECCION>CALLE FUENTE ALEGRE, 143 </DIRECCION>
+            <ID>76425</ID>
+            <NOMBRE>COLONIAFELINA-205</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>362047.04844535</element>
+               <element>4065775.31612589</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_e4</id>
+         <properties>
+            <DESCRIPCION null="true" />
+            <DIRECCION>CALLE RAMÍREZ ARCAS, 1 </DIRECCION>
+            <ID>76440</ID>
+            <NOMBRE>COLONIAFELINA-233</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>367983.42798105</element>
+               <element>4059086.33102704</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_e5</id>
+         <properties>
+            <DESCRIPCION null="true" />
+            <DIRECCION>CALLE LA TIERRA, 1 </DIRECCION>
+            <ID>76446</ID>
+            <NOMBRE>COLONIAFELINA-241</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>367745.97963492</element>
+               <element>4067547.99983632</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_e6</id>
+         <properties>
+            <DESCRIPCION null="true" />
+            <DIRECCION>CALLE SUSTANCIA, 11 </DIRECCION>
+            <ID>76418</ID>
+            <NOMBRE>COLONIAFELINA-193</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>372886.69658731</element>
+               <element>4065372.02986322</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_e7</id>
+         <properties>
+            <DESCRIPCION null="true" />
+            <DIRECCION>PLAZA DE LOS CRISTOS, 1 </DIRECCION>
+            <ID>76414</ID>
+            <NOMBRE>COLONIAFELINA-186</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>372308.24446787</element>
+               <element>4063532.88552447</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_e8</id>
+         <properties>
+            <DESCRIPCION>Calles Góngora-Donoso Cortés. El Bulto</DESCRIPCION>
+            <DIRECCION>CALLE GÓNGORA, 9 </DIRECCION>
+            <ID>76403</ID>
+            <NOMBRE>COLONIAFELINA-168</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>-4.43127499</element>
+               <element>36.72634719</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_e9</id>
+         <properties>
+            <DESCRIPCION>Hospital Civil (alrededores del Hospital)</DESCRIPCION>
+            <DIRECCION>CALLE VELARDE, 4 </DIRECCION>
+            <ID>77692</ID>
+            <NOMBRE>COLONIAFELINA-23</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>-4.42214434</element>
+               <element>36.73011879</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_ea</id>
+         <properties>
+            <DESCRIPCION>Calle Eduardo Domínguez Ávila (entre colegio Salesianos y plaza Capuchinos)</DESCRIPCION>
+            <DIRECCION>CALLE TEJIDOS, 2 </DIRECCION>
+            <ID>77735</ID>
+            <NOMBRE>COLONIAFELINA-203</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>376836.87209487</element>
+               <element>4066347.25920716</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_eb</id>
+         <properties>
+            <DESCRIPCION null="true" />
+            <DIRECCION>PASEO DE LA SIERRA, 1 </DIRECCION>
+            <ID>76431</ID>
+            <NOMBRE>COLONIAFELINA-212</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>-4.43253224</element>
+               <element>36.72661307</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_ec</id>
+         <properties>
+            <DESCRIPCION>Calle Velarde-Calle Covarrubias-Calle Pedro Marcolain (solar). H.Civil</DESCRIPCION>
+            <DIRECCION>CALLE VELARDE, 20 </DIRECCION>
+            <ID>77690</ID>
+            <NOMBRE>COLONIAFELINA-13</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>376457.13168518</element>
+               <element>4066282.35193872</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_ed</id>
+         <properties>
+            <DESCRIPCION null="true" />
+            <DIRECCION>CALLE MERIDIANA, 1 </DIRECCION>
+            <ID>76432</ID>
+            <NOMBRE>COLONIAFELINA-214</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>378075.82723813</element>
+               <element>4065360.36626109</element>
+               <element>4065360.36626109</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_ee</id>
+         <properties>
+            <DESCRIPCION null="true" />
+            <DIRECCION>AVENIDA DE SAN ISIDRO, 1 </DIRECCION>
+            <ID>76675</ID>
+            <NOMBRE>COLONIAFELINA-286</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>-4.40362886</element>
+               <element>36.72449532</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_ef</id>
+         <properties>
+            <DESCRIPCION>Calle  Padre Isla - Jacques Capeluto - Mimosas (Cerro de Monte Sancha)</DESCRIPCION>
+            <DIRECCION>CALLE JACQUES CAPELUTO, 1 </DIRECCION>
+            <ID>77738</ID>
+            <NOMBRE>COLONIAFELINA-215</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>-4.38211365</element>
+               <element>36.72408533</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_f0</id>
+         <properties>
+            <DESCRIPCION>Paseo Cerrado Calderón y Vivero</DESCRIPCION>
+            <DIRECCION>CAMINO DE LA DESVIACIÓN, 20 </DIRECCION>
+            <ID>77741</ID>
+            <NOMBRE>COLONIAFELINA-219</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>372746.15735782</element>
+               <element>4065062.11993114</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_f1</id>
+         <properties>
+            <DESCRIPCION>(solar vallado)</DESCRIPCION>
+            <DIRECCION>CALLE NUÑO GÓMEZ, 1 </DIRECCION>
+            <ID>76373</ID>
+            <NOMBRE>COLONIAFELINA-125</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>372746.15735782</element>
+               <element>4065062.11993114</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_f2</id>
+         <properties>
+            <DESCRIPCION>(La Goleta)</DESCRIPCION>
+            <DIRECCION>CALLE NUÑO GÓMEZ, 1 </DIRECCION>
+            <ID>76410</ID>
+            <NOMBRE>COLONIAFELINA-180</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>379439.38733652</element>
+               <element>4064990.24077335</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_f3</id>
+         <properties>
+            <DESCRIPCION>El Palo (aparcamiento)</DESCRIPCION>
+            <DIRECCION>CALLE ALGARROBO, 28 </DIRECCION>
+            <ID>76383</ID>
+            <NOMBRE>COLONIAFELINA-135</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>374338.48653651</element>
+               <element>4064874.89170501</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_f4</id>
+         <properties>
+            <DESCRIPCION>Cementerio inglés (interior)</DESCRIPCION>
+            <DIRECCION>AVENIDA DE PRÍES, 1 </DIRECCION>
+            <ID>76307</ID>
+            <NOMBRE>COLONIAFELINA-11</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>-4.44908425</element>
+               <element>36.68421404</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_f5</id>
+         <properties>
+            <DESCRIPCION>Calle Jalón con Calle Manolo Segura e Imperio Argentina, Camino de la Térmica</DESCRIPCION>
+            <DIRECCION>CAMINO DE LA TÉRMICA, 69 </DIRECCION>
+            <ID>77731</ID>
+            <NOMBRE>COLONIAFELINA-197</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>372812.92168557</element>
+               <element>4065557.85451313</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_f6</id>
+         <properties>
+            <DESCRIPCION>solar 16 y 18</DESCRIPCION>
+            <DIRECCION>CALLE SAN BARTOLOMÉ, 1 </DIRECCION>
+            <ID>76452</ID>
+            <NOMBRE>COLONIAFELINA-252</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>372126.15409983</element>
+               <element>4067178.6573118</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_f7</id>
+         <properties>
+            <DESCRIPCION>Virreina Alta</DESCRIPCION>
+            <DIRECCION>CALLE JABALÓN, 1 </DIRECCION>
+            <ID>76444</ID>
+            <NOMBRE>COLONIAFELINA-237</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>372945.73782493</element>
+               <element>4065487.48841449</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_f8</id>
+         <properties>
+            <DESCRIPCION>(solar vallado)</DESCRIPCION>
+            <DIRECCION>CALLE PARRAS, 33 </DIRECCION>
+            <ID>76378</ID>
+            <NOMBRE>COLONIAFELINA-130</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>377165.62461983</element>
+               <element>4065808.48177397</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_f9</id>
+         <properties>
+            <DESCRIPCION>La Mosca</DESCRIPCION>
+            <DIRECCION>CALLE JOSÉ FERNÁNDEZ PERTIERRA, 1 </DIRECCION>
+            <ID>76367</ID>
+            <NOMBRE>COLONIAFELINA-118</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>368485.78860815</element>
+               <element>4066132.3488265</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_fa</id>
+         <properties>
+            <DESCRIPCION null="true" />
+            <DIRECCION>CALLE DE JUAN DE ORTEGA, 5 </DIRECCION>
+            <ID>76477</ID>
+            <NOMBRE>COLONIAFELINA-296</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>368336.23222521</element>
+               <element>4066316.89188111</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_fb</id>
+         <properties>
+            <DESCRIPCION null="true" />
+            <DIRECCION>CALLE CURAZAO, 7 </DIRECCION>
+            <ID>76379</ID>
+            <NOMBRE>COLONIAFELINA-131</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>-4.47060795</element>
+               <element>36.73369277</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_fc</id>
+         <properties>
+            <DESCRIPCION>Calles Aruba-Bali-Java-Madura-Suriname. El Atabal</DESCRIPCION>
+            <DIRECCION>CALLE JAVA, 29 </DIRECCION>
+            <ID>77725</ID>
+            <NOMBRE>COLONIAFELINA-165</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>367336.47866207</element>
+               <element>4064783.34171713</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_fd</id>
+         <properties>
+            <DESCRIPCION null="true" />
+            <DIRECCION>AVENIDA DOLORES RODRÍGUEZ DE ARAGÓN, 1 </DIRECCION>
+            <ID>76481</ID>
+            <NOMBRE>COLONIAFELINA-304</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>-4.42806691</element>
+               <element>36.72025186</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_fe</id>
+         <properties>
+            <DESCRIPCION>Calle  Agustín Parejo y Calle  Libertad - La Trinidad</DESCRIPCION>
+            <DIRECCION>PLAZA DE DOÑA TRINIDAD, 10 </DIRECCION>
+            <ID>77746</ID>
+            <NOMBRE>COLONIAFELINA-239</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>371408.83038553</element>
+               <element>4064110.30691905</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_ff</id>
+         <properties>
+            <DESCRIPCION>Cruz de Humilladero (C. Educación Especial)</DESCRIPCION>
+            <DIRECCION>CALLE HORACIO LENGO, 1 </DIRECCION>
+            <ID>76312</ID>
+            <NOMBRE>COLONIAFELINA-21</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>367663.36345068</element>
+               <element>4066230.9277309</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_100</id>
+         <properties>
+            <DESCRIPCION>Calle Águila-Calle Cristo de los Milagros</DESCRIPCION>
+            <DIRECCION>CALLE ÁGUILA, 1 </DIRECCION>
+            <ID>76399</ID>
+            <NOMBRE>COLONIAFELINA-161</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>370125.0448012</element>
+               <element>4062883.45559636</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_101</id>
+         <properties>
+            <DESCRIPCION>Boulevard Adolfo Suárez-Calle Victoria Kent (EMT)</DESCRIPCION>
+            <DIRECCION>CALLE PUERTO ONCALA, 17 </DIRECCION>
+            <ID>77705</ID>
+            <NOMBRE>COLONIAFELINA-90</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>370964.33961145</element>
+               <element>4066016.78051542</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_102</id>
+         <properties>
+            <DESCRIPCION>Calle  Pedro Morejón, esq. C Joaquín de Rucoba. Carlinda</DESCRIPCION>
+            <DIRECCION>CALLE PADRE PEDRO MOREJÓN, 3 </DIRECCION>
+            <ID>76321</ID>
+            <NOMBRE>COLONIAFELINA-37</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>360114.62839936</element>
+               <element>4066419.29564938</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_103</id>
+         <properties>
+            <DESCRIPCION null="true" />
+            <DIRECCION>CALLE MONTERROSO, 6 </DIRECCION>
+            <ID>76464</ID>
+            <NOMBRE>COLONIAFELINA-272</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>371673.20373201</element>
+               <element>4066338.39770706</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_104</id>
+         <properties>
+            <DESCRIPCION>Edf. El Rosario (jardines). Arroyo de los Ángeles</DESCRIPCION>
+            <DIRECCION>CALLE PEDRO GÓMEZ SANCHO, 13 </DIRECCION>
+            <ID>76345</ID>
+            <NOMBRE>COLONIAFELINA-80</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>368079.26094616</element>
+               <element>4068007.45707464</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_105</id>
+         <properties>
+            <DESCRIPCION null="true" />
+            <DIRECCION>CALLE DE JOSÉ BARRERAS, 24 </DIRECCION>
+            <ID>76465</ID>
+            <NOMBRE>COLONIAFELINA-276</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>370904.26881704</element>
+               <element>4065834.54901119</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_106</id>
+         <properties>
+            <DESCRIPCION>Bailén/Miraflores (inmediaciones Salyt)</DESCRIPCION>
+            <DIRECCION>CALLE GALENO, 1 </DIRECCION>
+            <ID>76331</ID>
+            <NOMBRE>COLONIAFELINA-53</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>-4.48242301</element>
+               <element>36.73991794</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_107</id>
+         <properties>
+            <DESCRIPCION>El Canaveral-Puerto de la Torre junto a Construcciones Hermanos Gámez</DESCRIPCION>
+            <DIRECCION>CALLE LOPE DE RUEDA, 81 </DIRECCION>
+            <ID>77707</ID>
+            <NOMBRE>COLONIAFELINA-94</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>367662.75590399</element>
+               <element>4067019.61267396</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_108</id>
+         <properties>
+            <DESCRIPCION>Avda.Lope de Rueda, a la altura de la rotonda del tractor</DESCRIPCION>
+            <DIRECCION>CALLE LOPE DE RUEDA, 81 </DIRECCION>
+            <ID>77770</ID>
+            <NOMBRE>COLONIAFELINA-256</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>-4.44189507</element>
+               <element>36.69436545</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_109</id>
+         <properties>
+            <DESCRIPCION>Calle  Amalia Heredia - Canada del Tesoro - Calle  Pacífico</DESCRIPCION>
+            <DIRECCION>CALLE AMALIA HEREDIA, 8 </DIRECCION>
+            <ID>77701</ID>
+            <NOMBRE>COLONIAFELINA-76</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>375722.62169068</element>
+               <element>4065181.71224157</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_10a</id>
+         <properties>
+            <DESCRIPCION null="true" />
+            <DIRECCION>CALLE MARCOS DE OBREGÓN, 15 </DIRECCION>
+            <ID>76305</ID>
+            <NOMBRE>COLONIAFELINA-4</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>-4.42746261</element>
+               <element>36.72309474</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_10b</id>
+         <properties>
+            <DESCRIPCION>Calle  Trinidad-Iglesia de San Pablo (solar parking) Calles Malasana - San Quintín - Avda Fátima</DESCRIPCION>
+            <DIRECCION>CALLE TRINIDAD, 26 </DIRECCION>
+            <ID>77703</ID>
+            <NOMBRE>COLONIAFELINA-87</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>373530.01695039</element>
+               <element>4067369.64135759</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_10c</id>
+         <properties>
+            <DESCRIPCION>Ciudad Jardín (jardines)</DESCRIPCION>
+            <DIRECCION>CALLE LAS MORERAS, 1 </DIRECCION>
+            <ID>76365</ID>
+            <NOMBRE>COLONIAFELINA-116</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>-4.42158869</element>
+               <element>36.73604447</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_10d</id>
+         <properties>
+            <DESCRIPCION>Calle  Obispo Pedro Moya - Las Flores</DESCRIPCION>
+            <DIRECCION>CALLE OBISPO PEDRO DE MOYA, 3 </DIRECCION>
+            <ID>77711</ID>
+            <NOMBRE>COLONIAFELINA-104</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>372765.14106062</element>
+               <element>4068875.28367091</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_10e</id>
+         <properties>
+            <DESCRIPCION>(Peugeot hastal puente del tunel)</DESCRIPCION>
+            <DIRECCION>CAMINO DE CASABERMEJA, 122 </DIRECCION>
+            <ID>76341</ID>
+            <NOMBRE>COLONIAFELINA-72</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>373361.0891369</element>
+               <element>4066127.30925914</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_10f</id>
+         <properties>
+            <DESCRIPCION>Cementerio San Miguel</DESCRIPCION>
+            <DIRECCION>PLAZA DEL PATROCINIO, 1 </DIRECCION>
+            <ID>76380</ID>
+            <NOMBRE>COLONIAFELINA-132</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>372539.02562908</element>
+               <element>4065606.85074866</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_110</id>
+         <properties>
+            <DESCRIPCION>Paseo de Martiricos (zona de obras)</DESCRIPCION>
+            <DIRECCION>PASEO MARTIRICOS, 1 </DIRECCION>
+            <ID>76339</ID>
+            <NOMBRE>COLONIAFELINA-67</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>372539.02562908</element>
+               <element>4065606.85074866</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_111</id>
+         <properties>
+            <DESCRIPCION>Paseo de Martiricos (zona de obras)</DESCRIPCION>
+            <DIRECCION>PASEO MARTIRICOS, 1 </DIRECCION>
+            <ID>76340</ID>
+            <NOMBRE>COLONIAFELINA-70</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>372857.06765367</element>
+               <element>4068516.73589263</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_112</id>
+         <properties>
+            <DESCRIPCION>Ciudad Jardín</DESCRIPCION>
+            <DIRECCION>CALLE TIRANTE BLANCO, 1 </DIRECCION>
+            <ID>76317</ID>
+            <NOMBRE>COLONIAFELINA-32</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>365463.87959516</element>
+               <element>4063304.97772279</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_113</id>
+         <properties>
+            <DESCRIPCION>El Tarajal (Campanillas)</DESCRIPCION>
+            <DIRECCION>CALLE GUADALQUIVIREJO, 1 </DIRECCION>
+            <ID>76360</ID>
+            <NOMBRE>COLONIAFELINA-109</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>368495.06385709</element>
+               <element>4059276.40726313</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_114</id>
+         <properties>
+            <DESCRIPCION>Calle Walter Scott - Pol.Industrial Villa Rosa</DESCRIPCION>
+            <DIRECCION>CALLE WALTER SCOTT, 1 </DIRECCION>
+            <ID>76463</ID>
+            <NOMBRE>COLONIAFELINA-271</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>-4.47274673</element>
+               <element>36.68902261</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_115</id>
+         <properties>
+            <DESCRIPCION>Calle Gerald Brenan - Hermans Bronte - André Gide - Esteban Salazar Chapela - Polígono Guadalhorce</DESCRIPCION>
+            <DIRECCION>CALLE GERALD BRENAN, 12 </DIRECCION>
+            <ID>77729</ID>
+            <NOMBRE>COLONIAFELINA-189</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>-4.46916376</element>
+               <element>36.68815036</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_116</id>
+         <properties>
+            <DESCRIPCION>Calle Hermann Hesse, Poligono Guadalhorce</DESCRIPCION>
+            <DIRECCION>CALLE ORENSE, 29 </DIRECCION>
+            <ID>77734</ID>
+            <NOMBRE>COLONIAFELINA-202</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>367258.83018943</element>
+               <element>4058008.62981676</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_117</id>
+         <properties>
+            <DESCRIPCION>Calle  Plácido Domingo (IKEA) - zona cercana a McDonalds</DESCRIPCION>
+            <DIRECCION>AVENIDA DE VELÁZQUEZ, 397 </DIRECCION>
+            <ID>77717</ID>
+            <NOMBRE>COLONIAFELINA-141</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>-4.55122415</element>
+               <element>36.73750437</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_118</id>
+         <properties>
+            <DESCRIPCION>C/ Marie Curie - Juan Lopez Penalver. Parque Tecnológico</DESCRIPCION>
+            <DIRECCION>CALLE MARÍA CURIE, 3 </DIRECCION>
+            <ID>77702</ID>
+            <NOMBRE>COLONIAFELINA-78</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>368756.55226877</element>
+               <element>4065518.66582166</element>
+               <element>4065518.66582166</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_119</id>
+         <properties>
+            <DESCRIPCION null="true" />
+            <DIRECCION>CALLE JUAN FRANCÉS BOSCA, 37 </DIRECCION>
+            <ID>76168</ID>
+            <NOMBRE>COLONIAFELINA-25</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>367696.19647943</element>
+               <element>4067182.41617828</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_11a</id>
+         <properties>
+            <DESCRIPCION null="true" />
+            <DIRECCION>CALLE GALAXIA, 1 </DIRECCION>
+            <ID>76448</ID>
+            <NOMBRE>COLONIAFELINA-246</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>371565.26296716</element>
+               <element>4065667.96665813</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_11b</id>
+         <properties>
+            <DESCRIPCION null="true" />
+            <DIRECCION>CALLE SINAGOGA, 1 </DIRECCION>
+            <ID>76447</ID>
+            <NOMBRE>COLONIAFELINA-244</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>367434.25496029</element>
+               <element>4062024.74437204</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_11c</id>
+         <properties>
+            <DESCRIPCION>(PI Guadalhorce, zona Fujitsu)</DESCRIPCION>
+            <DIRECCION>CALLE CÉSAR VALLEJO, 14 </DIRECCION>
+            <ID>76435</ID>
+            <NOMBRE>COLONIAFELINA-224</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>373037.75496527</element>
+               <element>4065397.20263014</element>
+               <element>4065397.20263014</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_11d</id>
+         <properties>
+            <DESCRIPCION null="true" />
+            <DIRECCION>CALLE PARRAS, 12 </DIRECCION>
+            <ID>76170</ID>
+            <NOMBRE>COLONIAFELINA-27</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>370692.97937409</element>
+               <element>4062920.4575247</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_11e</id>
+         <properties>
+            <DESCRIPCION null="true" />
+            <DIRECCION>PLAZA DEL GENERAL CANO, 1 </DIRECCION>
+            <ID>76397</ID>
+            <NOMBRE>COLONIAFELINA-156</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>368257.95910294</element>
+               <element>4067036.71949676</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_11f</id>
+         <properties>
+            <DESCRIPCION>Junto CEIP Los Morales</DESCRIPCION>
+            <DIRECCION>CALLE ESCRITOR ANTONIO NAVARRO TRUJILLO, 36 </DIRECCION>
+            <ID>76476</ID>
+            <NOMBRE>COLONIAFELINA-295</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>371731.91085879</element>
+               <element>4065173.1662668</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_120</id>
+         <properties>
+            <DESCRIPCION>Pasaje Solluve - Pasaje Archanda -  Eugenio Gross</DESCRIPCION>
+            <DIRECCION>PASAJE SOLLUVE, 1 </DIRECCION>
+            <ID>76330</ID>
+            <NOMBRE>COLONIAFELINA-51</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>370346.02734755</element>
+               <element>4061144.64899</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_121</id>
+         <properties>
+            <DESCRIPCION>Las Pirámides</DESCRIPCION>
+            <DIRECCION>CALLE LA UNIÓN MERCANTIL, 38 </DIRECCION>
+            <ID>76327</ID>
+            <NOMBRE>COLONIAFELINA-46</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>370098.33330293</element>
+               <element>4061192.34115624</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_122</id>
+         <properties>
+            <DESCRIPCION>P.Litoral (IES Mare Nostrum)</DESCRIPCION>
+            <DIRECCION>CALLE VILLANUEVA DE TAPIA, 1 </DIRECCION>
+            <ID>76334</ID>
+            <NOMBRE>COLONIAFELINA-57</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>367258.83018943</element>
+               <element>4058008.62981676</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_123</id>
+         <properties>
+            <DESCRIPCION>Los Asperones - C.E.Ciudad de los Ninos (campo)</DESCRIPCION>
+            <DIRECCION>DISEMINADO CIUDAD DE LOS NIÑOS, 1 </DIRECCION>
+            <ID>77713</ID>
+            <NOMBRE>COLONIAFELINA-115</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>-4.43735192</element>
+               <element>36.73235806</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_124</id>
+         <properties>
+            <DESCRIPCION>Calle  Arroyo de los Ángeles - Calle  Turut (Miraflores de los Ángeles)</DESCRIPCION>
+            <DIRECCION>CALLE TURUT, 24 </DIRECCION>
+            <ID>77744</ID>
+            <NOMBRE>COLONIAFELINA-230</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>369642.05084981</element>
+               <element>4058767.80833193</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_125</id>
+         <properties>
+            <DESCRIPCION>Calle Castellón de la Plana-Calle .Fresnos</DESCRIPCION>
+            <DIRECCION>CALLE CASTELLÓN DE LA PLANA, 40 </DIRECCION>
+            <ID>76322</ID>
+            <NOMBRE>COLONIAFELINA-38</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>370873.01172362</element>
+               <element>4061535.76447471</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_126</id>
+         <properties>
+            <DESCRIPCION>Bda.Sta.Paula</DESCRIPCION>
+            <DIRECCION>PLAZA DE VALENTÍN ORTIGOSA, 1 </DIRECCION>
+            <ID>76352</ID>
+            <NOMBRE>COLONIAFELINA-95</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>367715.85434552</element>
+               <element>4065088.42459438</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_127</id>
+         <properties>
+            <DESCRIPCION>Parque urbano El Cónsul</DESCRIPCION>
+            <DIRECCION>CALLE DE SÓFOCLES, 1 </DIRECCION>
+            <ID>76311</ID>
+            <NOMBRE>COLONIAFELINA-20</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>373606.51207807</element>
+               <element>4064830.17481388</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_128</id>
+         <properties>
+            <DESCRIPCION null="true" />
+            <DIRECCION>JARDINES DE PUERTA OSCURA, 1 </DIRECCION>
+            <ID>76372</ID>
+            <NOMBRE>COLONIAFELINA-124</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>368462.53976023</element>
+               <element>4066096.14261486</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_129</id>
+         <properties>
+            <DESCRIPCION null="true" />
+            <DIRECCION>CALLE DE JUAN DE ORTEGA, 6 </DIRECCION>
+            <ID>76395</ID>
+            <NOMBRE>COLONIAFELINA-153</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>377298.23399667</element>
+               <element>4066263.07876418</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_12a</id>
+         <properties>
+            <DESCRIPCION>Calle Suceso Luengo con Calle Escritor Jiménez Guzmán (La Mosca)</DESCRIPCION>
+            <DIRECCION>CALLE SUCESO LUENGO, 1 </DIRECCION>
+            <ID>76421</ID>
+            <NOMBRE>COLONIAFELINA-196</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>379009.61743433</element>
+               <element>4065078.59305838</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_12b</id>
+         <properties>
+            <DESCRIPCION null="true" />
+            <DIRECCION>CALLE PICOS DE EUROPA, 1 </DIRECCION>
+            <ID>76416</ID>
+            <NOMBRE>COLONIAFELINA-190</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>376991.42934321</element>
+               <element>4066223.80498039</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_12c</id>
+         <properties>
+            <DESCRIPCION null="true" />
+            <DIRECCION>CALLE CÁCERES, 49 </DIRECCION>
+            <ID>76361</ID>
+            <NOMBRE>COLONIAFELINA-110</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>370341.43040213</element>
+               <element>4060441.82518339</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_12d</id>
+         <properties>
+            <DESCRIPCION>zona Sacaba</DESCRIPCION>
+            <DIRECCION>CAMINO DE LA TÉRMICA, 70 </DIRECCION>
+            <ID>76371</ID>
+            <NOMBRE>COLONIAFELINA-122</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>376182.05748487</element>
+               <element>4064922.47541878</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_12e</id>
+         <properties>
+            <DESCRIPCION>Zona verde. Málaga Este</DESCRIPCION>
+            <DIRECCION>CAMINO DE LA DESVIACIÓN, 1 </DIRECCION>
+            <ID>76316</ID>
+            <NOMBRE>COLONIAFELINA-31</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>370451.80746587</element>
+               <element>4064505.67809745</element>
+               <element>4064505.67809745</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_12f</id>
+         <properties>
+            <DESCRIPCION null="true" />
+            <DIRECCION>CALLE CORREGIDOR CARLOS GARAFA, 1 </DIRECCION>
+            <ID>76674</ID>
+            <NOMBRE>COLONIAFELINA-303</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>366932.44364033</element>
+               <element>4060093.13484449</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_130</id>
+         <properties>
+            <DESCRIPCION>Aeropuerto, frente RENFE</DESCRIPCION>
+            <DIRECCION>AVENIDA DEL COMANDANTE GARCÍA MORATO, 7 </DIRECCION>
+            <ID>77728</ID>
+            <NOMBRE>COLONIAFELINA-185</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>366962.95547008</element>
+               <element>4067166.28973769</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_131</id>
+         <properties>
+            <DESCRIPCION null="true" />
+            <DIRECCION>AVENIDA ARQUITECTO LUIS BONO, 7 </DIRECCION>
+            <ID>76427</ID>
+            <NOMBRE>COLONIAFELINA-207</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>-4.51585917</element>
+               <element>36.78026893</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_132</id>
+         <properties>
+            <DESCRIPCION>Bda. Los Núnez. Casas rurales La Huerta - Campanillas</DESCRIPCION>
+            <DIRECCION>CAMINO DE LA DEHESA, 15 </DIRECCION>
+            <ID>77694</ID>
+            <NOMBRE>COLONIAFELINA-48</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>-4.39335338</element>
+               <element>36.73398476</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_133</id>
+         <properties>
+            <DESCRIPCION>Calle La Minilla y Calle Mayoral. El Mayorazgo</DESCRIPCION>
+            <DIRECCION>CALLE DE LA MINILLA, 23 </DIRECCION>
+            <ID>77714</ID>
+            <NOMBRE>COLONIAFELINA-123</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>373141.75822691</element>
+               <element>4064366.26595762</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_134</id>
+         <properties>
+            <DESCRIPCION>Zona portuaria-Muelle Levante 3</DESCRIPCION>
+            <DIRECCION>AVENIDA DE MANUEL AGUSTÍN HEREDIA, 2 </DIRECCION>
+            <ID>77721</ID>
+            <NOMBRE>COLONIAFELINA-154</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>-4.41356715</element>
+               <element>36.74243381</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_135</id>
+         <properties>
+            <DESCRIPCION>Monte Dorado - Ciudad Jardín Calle El Clarinete y Calle  Oboe</DESCRIPCION>
+            <DIRECCION>CALLE EL CLARINETE, 12 </DIRECCION>
+            <ID>77737</ID>
+            <NOMBRE>COLONIAFELINA-213</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>-4.35912966</element>
+               <element>36.73810431</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_136</id>
+         <properties>
+            <DESCRIPCION>Calle Palmera y calle Buganvillas - Pinares de San Antón</DESCRIPCION>
+            <DIRECCION>CALLE LAS PALMERAS, 3 </DIRECCION>
+            <ID>77753</ID>
+            <NOMBRE>COLONIAFELINA-259</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>373234.6306113</element>
+               <element>4064647.14712951</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_137</id>
+         <properties>
+            <DESCRIPCION>Paseo del Parque-Cortina del Muelle</DESCRIPCION>
+            <DIRECCION>CALLE CORTINA DEL MUELLE, 1 </DIRECCION>
+            <ID>76391</ID>
+            <NOMBRE>COLONIAFELINA-138</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>371029.03824184</element>
+               <element>4063394.19974298</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_138</id>
+         <properties>
+            <DESCRIPCION null="true" />
+            <DIRECCION>CALLE BODEGUEROS, 1 </DIRECCION>
+            <ID>76445</ID>
+            <NOMBRE>COLONIAFELINA-235</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>373065.99058044</element>
+               <element>4064754.28938567</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_139</id>
+         <properties>
+            <DESCRIPCION>Caserío de Salinas Campanillas</DESCRIPCION>
+            <DIRECCION>CALLE SALINAS, 1 </DIRECCION>
+            <ID>76460</ID>
+            <NOMBRE>COLONIAFELINA-268</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>-4.42774795</element>
+               <element>36.74054179</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_13a</id>
+         <properties>
+            <DESCRIPCION>Calle  Dr. Muguerza Bernal-Calle  Ants María Isola. La Palma.Palmilla</DESCRIPCION>
+            <DIRECCION>CALLE ANTONIO MARÍA ISOLA, 2 </DIRECCION>
+            <ID>77697</ID>
+            <NOMBRE>COLONIAFELINA-64</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>378686.05588867</element>
+               <element>4066702.80102623</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_13b</id>
+         <properties>
+            <DESCRIPCION>(solar).Pinares San Antón</DESCRIPCION>
+            <DIRECCION>CALLE LAS PALMERAS, 4 </DIRECCION>
+            <ID>76386</ID>
+            <NOMBRE>COLONIAFELINA-142</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>-4.42514634</element>
+               <element>36.72357004</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_13c</id>
+         <properties>
+            <DESCRIPCION>Calle  Grama, Goletera y San Rafael</DESCRIPCION>
+            <DIRECCION>CALLE SAN RAFAEL, 8 </DIRECCION>
+            <ID>77749</ID>
+            <NOMBRE>COLONIAFELINA-243</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>372501.51545274</element>
+               <element>4066226.4588151</element>
+               <element>4066226.4588151</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_13d</id>
+         <properties>
+            <DESCRIPCION null="true" />
+            <DIRECCION>AVENIDA DE LUIS BUÑUEL, 6 </DIRECCION>
+            <ID>76171</ID>
+            <NOMBRE>COLONIAFELINA-28</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>-4.42780367</element>
+               <element>36.74351745</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_13e</id>
+         <properties>
+            <DESCRIPCION>Calle  Werther - Calle Massenet .La Palma. Palmilla</DESCRIPCION>
+            <DIRECCION>CALLE MASSENET, 1 </DIRECCION>
+            <ID>77715</ID>
+            <NOMBRE>COLONIAFELINA-139</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>-4.5815871</element>
+               <element>36.75481499</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_13f</id>
+         <properties>
+            <DESCRIPCION>Nueva Locotta, 115. Campanillas, Maqueda    NO VISITADA</DESCRIPCION>
+            <DIRECCION>CAMINO LO COTTA, 236 </DIRECCION>
+            <ID>77757</ID>
+            <NOMBRE>COLONIAFELINA-297</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>372113.16725277</element>
+               <element>4072442.78296186</element>
+               <element>4072442.78296186</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_140</id>
+         <properties>
+            <DESCRIPCION>(zona venta el túnel)</DESCRIPCION>
+            <DIRECCION>CAMINO TOMA DEL AGUA, 23 </DIRECCION>
+            <ID>76429</ID>
+            <NOMBRE>COLONIAFELINA-209</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>-4.54398842</element>
+               <element>36.70348859</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_141</id>
+         <properties>
+            <DESCRIPCION>Cortijo Santa Águeda - Agrocampanillas</DESCRIPCION>
+            <DIRECCION>CAMINO SANTA ÁGUEDA, 5 </DIRECCION>
+            <ID>77748</ID>
+            <NOMBRE>COLONIAFELINA-242</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>359828.49773667</element>
+               <element>4065792.72062598</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_142</id>
+         <properties>
+            <DESCRIPCION>Sta.Rosalía/Maqueda</DESCRIPCION>
+            <DIRECCION>CAMINO DE LOS GRANADILLOS, 1 </DIRECCION>
+            <ID>76358</ID>
+            <NOMBRE>COLONIAFELINA-107</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>367318.5027593</element>
+               <element>4065024.12748687</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_143</id>
+         <properties>
+            <DESCRIPCION null="true" />
+            <DIRECCION>CALLE ESQUILO, 1 </DIRECCION>
+            <ID>76459</ID>
+            <NOMBRE>COLONIAFELINA-267</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>367327.86958512</element>
+               <element>4065120.51637198</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_144</id>
+         <properties>
+            <DESCRIPCION>Avda. Jenofonte- Calle  María Barrientos (El Consul)</DESCRIPCION>
+            <DIRECCION>AVENIDA DE JENOFONTE, 1 </DIRECCION>
+            <ID>76359</ID>
+            <NOMBRE>COLONIAFELINA-108</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>366863.18848888</element>
+               <element>4067567.32157705</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_145</id>
+         <properties>
+            <DESCRIPCION null="true" />
+            <DIRECCION>CALLE RETAMA, 1 </DIRECCION>
+            <ID>76401</ID>
+            <NOMBRE>COLONIAFELINA-245</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>370922.73322713</element>
+               <element>4062630.88404679</element>
+               <element>4062630.88404679</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_146</id>
+         <properties>
+            <DESCRIPCION null="true" />
+            <DIRECCION>CALLE HÉROE DE SOSTOA, 200 </DIRECCION>
+            <ID>76169</ID>
+            <NOMBRE>COLONIAFELINA-26</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>371428.91495087</element>
+               <element>4066002.76077243</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_147</id>
+         <properties>
+            <DESCRIPCION>Huertecillas de Manas. Campanillas</DESCRIPCION>
+            <DIRECCION>CALLE MIRAVIOLETAS, 1 </DIRECCION>
+            <ID>76333</ID>
+            <NOMBRE>COLONIAFELINA-56</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>-4.464262</element>
+               <element>36.69807317</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_148</id>
+         <properties>
+            <DESCRIPCION>Calle Concierto y Calle Hermanos Bronte Polígono Guadalhorce</DESCRIPCION>
+            <DIRECCION>CALLE EL CONCIERTO, 1A</DIRECCION>
+            <ID>77733</ID>
+            <NOMBRE>COLONIAFELINA-201</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>-4.48134589</element>
+               <element>36.71049506</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_149</id>
+         <properties>
+            <DESCRIPCION>Bda san Carlos poligono el Viso</DESCRIPCION>
+            <DIRECCION>CALLE ALCALDE GÓMEZ GÓMEZ, 51 </DIRECCION>
+            <ID>77758</ID>
+            <NOMBRE>COLONIAFELINA-300</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>-4.4202055</element>
+               <element>36.74323434</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_14a</id>
+         <properties>
+            <DESCRIPCION>Calle  Aguacates, los Cipreses - Ciudad Jardín</DESCRIPCION>
+            <DIRECCION>CALLE DE LOS AGUACATES, 13 </DIRECCION>
+            <ID>77745</ID>
+            <NOMBRE>COLONIAFELINA-238</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>371994.81979326</element>
+               <element>4066481.31426861</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_14b</id>
+         <properties>
+            <DESCRIPCION>Edificio los Rosales</DESCRIPCION>
+            <DIRECCION>CALLE DE MÁXIMO GORKY, 1 </DIRECCION>
+            <ID>76346</ID>
+            <NOMBRE>COLONIAFELINA-82</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>-4.40441059</element>
+               <element>36.72274057</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_14c</id>
+         <properties>
+            <DESCRIPCION>c/ Canada de los ingleses, linda con colegio teresianas</DESCRIPCION>
+            <DIRECCION>CAMINO DEL MONTE, 17 </DIRECCION>
+            <ID>77759</ID>
+            <NOMBRE>COLONIAFELINA-301</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>373118.46990351</element>
+               <element>4066882.18343217</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_14d</id>
+         <properties>
+            <DESCRIPCION null="true" />
+            <DIRECCION>AVENIDA DE LA CIBELES, 1 </DIRECCION>
+            <ID>76356</ID>
+            <NOMBRE>COLONIAFELINA-105</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>380054.47218385</element>
+               <element>4064000.05978682</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_14e</id>
+         <properties>
+            <DESCRIPCION>Penón del Cuervo</DESCRIPCION>
+            <DIRECCION>PASEO DE LOS CANADIENSES, 1 </DIRECCION>
+            <ID>76349</ID>
+            <NOMBRE>COLONIAFELINA-86</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>372845.38861142</element>
+               <element>4067397.75571662</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_14f</id>
+         <properties>
+            <DESCRIPCION null="true" />
+            <DIRECCION>AVENIDA DEL GUADALMEDINA, 1 </DIRECCION>
+            <ID>76430</ID>
+            <NOMBRE>COLONIAFELINA-210</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>-4.40155458</element>
+               <element>36.73369012</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_150</id>
+         <properties>
+            <DESCRIPCION>Calle  de la Era - Calle  Sierra de Grazalema - Glorieta Bernabé Fdez Bernabé. Pinos del Limonar</DESCRIPCION>
+            <DIRECCION>CALLE LA ERA, 14 </DIRECCION>
+            <ID>77699</ID>
+            <NOMBRE>COLONIAFELINA-71</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>372197.00798757</element>
+               <element>4065752.12454748</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_151</id>
+         <properties>
+            <DESCRIPCION>(entre el Materno y la Noria)</DESCRIPCION>
+            <DIRECCION>AVENIDA DEL ARROYO DE LOS ÁNGELES, 50 </DIRECCION>
+            <ID>76396</ID>
+            <NOMBRE>COLONIAFELINA-155</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>372182.04868116</element>
+               <element>4066966.25484379</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_152</id>
+         <properties>
+            <DESCRIPCION null="true" />
+            <DIRECCION>CALLE GUADALÉN, 1 </DIRECCION>
+            <ID>76468</ID>
+            <NOMBRE>COLONIAFELINA-282</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>378800.48585131</element>
+               <element>4065098.05021354</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_153</id>
+         <properties>
+            <DESCRIPCION>c/ escudero hipolito y medina azahara</DESCRIPCION>
+            <DIRECCION>CALLE ESCUDERO HIPÓLITO, 24 </DIRECCION>
+            <ID>76467</ID>
+            <NOMBRE>COLONIAFELINA-279</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>376893.15735788</element>
+               <element>4066851.15118101</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_154</id>
+         <properties>
+            <DESCRIPCION>Calle Altabaca.Calle Cardo Cuco-Cerrado de Calderón</DESCRIPCION>
+            <DIRECCION>CALLE ALTABACA, 18 </DIRECCION>
+            <ID>76363</ID>
+            <NOMBRE>COLONIAFELINA-113</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>373402.81392569</element>
+               <element>4066698.98412324</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_155</id>
+         <properties>
+            <DESCRIPCION>Fuente Olletas</DESCRIPCION>
+            <DIRECCION>CALLE ESCRITOR ANTONIO RAMOS, 1 </DIRECCION>
+            <ID>76353</ID>
+            <NOMBRE>COLONIAFELINA-99</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>376588.72449115</element>
+               <element>4065469.7533735</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_156</id>
+         <properties>
+            <DESCRIPCION null="true" />
+            <DIRECCION>CALLE OLMOS, 1 </DIRECCION>
+            <ID>76456</ID>
+            <NOMBRE>COLONIAFELINA-249</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>374023.60645158</element>
+               <element>4067324.39148066</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_157</id>
+         <properties>
+            <DESCRIPCION>Calle Pérez de Ayala, esq. Camino del Colmenar</DESCRIPCION>
+            <DIRECCION>CALLE PÉREZ DE AYALA, 54 </DIRECCION>
+            <ID>76404</ID>
+            <NOMBRE>COLONIAFELINA-170</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>373807.07888608</element>
+               <element>4066804.77996203</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_158</id>
+         <properties>
+            <DESCRIPCION null="true" />
+            <DIRECCION>CALLE LIRIOS, 1 </DIRECCION>
+            <ID>76398</ID>
+            <NOMBRE>COLONIAFELINA-159</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>375602.45669896</element>
+               <element>4065067.77442523</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_159</id>
+         <properties>
+            <DESCRIPCION null="true" />
+            <DIRECCION>PASEO MARÍTIMO PABLO RUIZ PICASSO, 72 </DIRECCION>
+            <ID>76315</ID>
+            <NOMBRE>COLONIAFELINA-30</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>-4.38185508</element>
+               <element>36.73447495</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_15a</id>
+         <properties>
+            <DESCRIPCION>Calle  Olmos, Juan Cabanilles, Matagallos (Cerrado de Calderón)</DESCRIPCION>
+            <DIRECCION>CALLE OLMOS, 33 </DIRECCION>
+            <ID>77736</ID>
+            <NOMBRE>COLONIAFELINA-211</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>368274.98357577</element>
+               <element>4058835.65373985</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_15b</id>
+         <properties>
+            <DESCRIPCION null="true" />
+            <DIRECCION>CALLE MENDELSSOHN, 1 </DIRECCION>
+            <ID>76314</ID>
+            <NOMBRE>COLONIAFELINA-29</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>-4.43996436</element>
+               <element>36.70992168</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_15c</id>
+         <properties>
+            <DESCRIPCION>Calle  Diego Lara Valle - Calle  Reboul. Cruz de Humilladero</DESCRIPCION>
+            <DIRECCION>CALLE REBOUL, 17 </DIRECCION>
+            <ID>77700</ID>
+            <NOMBRE>COLONIAFELINA-75</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>-4.42360201</element>
+               <element>36.72519537</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_15d</id>
+         <properties>
+            <DESCRIPCION>Calle  Alozaina (parking). Cs San Rafael (Cruz de Humilladero)</DESCRIPCION>
+            <DIRECCION>CALLE DON RODRIGO, 1 </DIRECCION>
+            <ID>77696</ID>
+            <NOMBRE>COLONIAFELINA-63</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>370991.51408429</element>
+               <element>4065440.22632387</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_15e</id>
+         <properties>
+            <DESCRIPCION>Camino Castillejos - Calle Concejal J.M.Martín Carpena.Nueva Málaga</DESCRIPCION>
+            <DIRECCION>CALLE CONCEJAL JOSÉ MARÍA MARTÍN CARPENA, 1 </DIRECCION>
+            <ID>76389</ID>
+            <NOMBRE>COLONIAFELINA-145</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>367197.15949571</element>
+               <element>4067154.25226382</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_15f</id>
+         <properties>
+            <DESCRIPCION>Pto de la Torre (arroyo)</DESCRIPCION>
+            <DIRECCION>CALLE GRANATE, 1 </DIRECCION>
+            <ID>76376</ID>
+            <NOMBRE>COLONIAFELINA-128</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>371348.51817445</element>
+               <element>4066082.89942089</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_160</id>
+         <properties>
+            <DESCRIPCION null="true" />
+            <DIRECCION>CALLE MIRAORQUÍDEAS, 1 </DIRECCION>
+            <ID>76443</ID>
+            <NOMBRE>COLONIAFELINA-236</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>369086.52608973</element>
+               <element>4066158.6393077</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_161</id>
+         <properties>
+            <DESCRIPCION>Hacienda Cabello</DESCRIPCION>
+            <DIRECCION>CALLE BRUNO WALTER, 1 </DIRECCION>
+            <ID>76336</ID>
+            <NOMBRE>COLONIAFELINA-60</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>368823.9524926</element>
+               <element>4062880.02884449</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_162</id>
+         <properties>
+            <DESCRIPCION>Calle Atajate. Pol. La Estrella (solares)</DESCRIPCION>
+            <DIRECCION>CALLE ATAJATE, 1 </DIRECCION>
+            <ID>76369</ID>
+            <NOMBRE>COLONIAFELINA-120</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>370472.42576083</element>
+               <element>4065739.59751752</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_163</id>
+         <properties>
+            <DESCRIPCION>Zona parking altura ns 15. Bailén-Miraflores</DESCRIPCION>
+            <DIRECCION>CALLE PADRE MARTÍN, 15 </DIRECCION>
+            <ID>76423</ID>
+            <NOMBRE>COLONIAFELINA-199</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>369738.29001456</element>
+               <element>4065389.41156021</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_164</id>
+         <properties>
+            <DESCRIPCION>(trasera Fundación San Telmo)</DESCRIPCION>
+            <DIRECCION>AVENIDA CARLOS DE HAYA, 165 </DIRECCION>
+            <ID>76385</ID>
+            <NOMBRE>COLONIAFELINA-137</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>367883.07508562</element>
+               <element>4068502.19310784</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_165</id>
+         <properties>
+            <DESCRIPCION>Calle Marte y calles colindantes - Arroyo Espana - Puerto de la Torre</DESCRIPCION>
+            <DIRECCION>CALLE MARTE, 1 </DIRECCION>
+            <ID>76368</ID>
+            <NOMBRE>COLONIAFELINA-119</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>368112.70108296</element>
+               <element>4066820.95502758</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_166</id>
+         <properties>
+            <DESCRIPCION null="true" />
+            <DIRECCION>CALLE ESCRITOR GONZÁLEZ ANLEO, 18 </DIRECCION>
+            <ID>76325</ID>
+            <NOMBRE>COLONIAFELINA-41</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>367117.52197896</element>
+               <element>4067732.63964561</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_167</id>
+         <properties>
+            <DESCRIPCION>(Las Morillas)-Puerto de la Torre</DESCRIPCION>
+            <DIRECCION>CALLE BREZO, 1 </DIRECCION>
+            <ID>76354</ID>
+            <NOMBRE>COLONIAFELINA-100</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>-4.47456156</element>
+               <element>36.74360062</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_168</id>
+         <properties>
+            <DESCRIPCION>Calle Lorenzo Valla y calle Trombón</DESCRIPCION>
+            <DIRECCION>CALLE DEL TROMBÓN, 51 </DIRECCION>
+            <ID>77730</ID>
+            <NOMBRE>COLONIAFELINA-192</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>370056.51178655</element>
+               <element>4065030.83103159</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_169</id>
+         <properties>
+            <DESCRIPCION null="true" />
+            <DIRECCION>CALLE JUAN BAUTISTA MAURY, 1 </DIRECCION>
+            <ID>76462</ID>
+            <NOMBRE>COLONIAFELINA-270</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>370249.45583811</element>
+               <element>4063674.89684537</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_16a</id>
+         <properties>
+            <DESCRIPCION>El Copo (frente  campo de futbol)</DESCRIPCION>
+            <DIRECCION>AVENIDA DE JOSÉ ORTEGA Y GASSET, 131 </DIRECCION>
+            <ID>76329</ID>
+            <NOMBRE>COLONIAFELINA-49</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>367625.10704906</element>
+               <element>4067091.39828341</element>
+               <element>4067091.39828341</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_16b</id>
+         <properties>
+            <DESCRIPCION null="true" />
+            <DIRECCION>CAMINO DE OROZCO, 1 </DIRECCION>
+            <ID>76167</ID>
+            <NOMBRE>COLONIAFELINA-24</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>370977.96787878</element>
+               <element>4063859.87933765</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_16c</id>
+         <properties>
+            <DESCRIPCION>(cárcel).Cruz de Humilladero</DESCRIPCION>
+            <DIRECCION>AVENIDA DE JOSÉ ORTEGA Y GASSET, 24 </DIRECCION>
+            <ID>76382</ID>
+            <NOMBRE>COLONIAFELINA-134</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>367902.65853208</element>
+               <element>4068226.79082319</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_16d</id>
+         <properties>
+            <DESCRIPCION null="true" />
+            <DIRECCION>CALLE AMAZONA, 9 </DIRECCION>
+            <ID>76324</ID>
+            <NOMBRE>COLONIAFELINA-40</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>371260.60504285</element>
+               <element>4062978.18847479</element>
+               <element>4062978.18847479</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_16e</id>
+         <properties>
+            <DESCRIPCION null="true" />
+            <DIRECCION>AVENIDA DE EUROPA, 1 </DIRECCION>
+            <ID>76670</ID>
+            <NOMBRE>COLONIAFELINA-42</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>371950.46476274</element>
+               <element>4065886.01355822</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_16f</id>
+         <properties>
+            <DESCRIPCION null="true" />
+            <DIRECCION>AVENIDA DE SIMÓN BOLÍVAR, 1 </DIRECCION>
+            <ID>76471</ID>
+            <NOMBRE>COLONIAFELINA-288</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>371950.46476274</element>
+               <element>4065886.01355822</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_170</id>
+         <properties>
+            <DESCRIPCION null="true" />
+            <DIRECCION>AVENIDA DE SIMÓN BOLÍVAR, 1 </DIRECCION>
+            <ID>76480</ID>
+            <NOMBRE>COLONIAFELINA-302</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>377857.27282091</element>
+               <element>4065666.01115018</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_171</id>
+         <properties>
+            <DESCRIPCION>Calle  Hernando de Baeza y Hernán Núnez de Toledo</DESCRIPCION>
+            <DIRECCION>CALLE HERNANDO DE BAEZA, 1 </DIRECCION>
+            <ID>76405</ID>
+            <NOMBRE>COLONIAFELINA-171</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>376644.60655271</element>
+               <element>4065180.44398305</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_172</id>
+         <properties>
+            <DESCRIPCION null="true" />
+            <DIRECCION>CALLE LA VIHUELA, 7 </DIRECCION>
+            <ID>76387</ID>
+            <NOMBRE>COLONIAFELINA-143</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>-4.41017772</element>
+               <element>36.72674089</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_173</id>
+         <properties>
+            <DESCRIPCION>C/Hurtado de Mendoza / Conde Urena</DESCRIPCION>
+            <DIRECCION>CALLE PINOSOL, 17D</DIRECCION>
+            <ID>77756</ID>
+            <NOMBRE>COLONIAFELINA-292</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>370928.20776347</element>
+               <element>4060687.78785256</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_174</id>
+         <properties>
+            <DESCRIPCION>Espigón de Málaga - Sacaba - Paseo Marítimo Antonio Banderas - Espigón Pena Banista</DESCRIPCION>
+            <DIRECCION>PASEO MARÍTIMO ANTONIO BANDERAS, 21 </DIRECCION>
+            <ID>77743</ID>
+            <NOMBRE>COLONIAFELINA-228</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>359749.83832273</element>
+               <element>4066132.58956388</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_175</id>
+         <properties>
+            <DESCRIPCION null="true" />
+            <DIRECCION>CALLE BERNARDO DE BALBUENA, 1 </DIRECCION>
+            <ID>76412</ID>
+            <NOMBRE>COLONIAFELINA-182</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>-4.454629</element>
+               <element>36.70674827</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_176</id>
+         <properties>
+            <DESCRIPCION>Calle  Juan Gris, esq.Calle . Baliza y Av. Nehemías (El Copo)</DESCRIPCION>
+            <DIRECCION>CALLE DOCTOR FÉLIX GARCÍA PALACIOS, 11 </DIRECCION>
+            <ID>77689</ID>
+            <NOMBRE>COLONIAFELINA-12</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>366367.38254989</element>
+               <element>4069157.42988573</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_177</id>
+         <properties>
+            <DESCRIPCION>(Junta de los caminos)</DESCRIPCION>
+            <DIRECCION>CAMINO CORTIJO MAIMÓN, 1 </DIRECCION>
+            <ID>76466</ID>
+            <NOMBRE>COLONIAFELINA-277</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>368363.5767045</element>
+               <element>4059503.14327402</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_178</id>
+         <properties>
+            <DESCRIPCION null="true" />
+            <DIRECCION>CALLE RAMÓN HERNÁNDEZ, 1 </DIRECCION>
+            <ID>76424</ID>
+            <NOMBRE>COLONIAFELINA-204</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>370299.49160688</element>
+               <element>4067540.95517874</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_179</id>
+         <properties>
+            <DESCRIPCION>(Bda San ALberto)</DESCRIPCION>
+            <DIRECCION>CAMINO MAESTRO ESCUELA, 1 </DIRECCION>
+            <ID>76469</ID>
+            <NOMBRE>COLONIAFELINA-283</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>368441.48011539</element>
+               <element>4062246.48926246</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_17a</id>
+         <properties>
+            <DESCRIPCION>Calle Bachiller de Palma con Calle Sancti Espíritu - Los Prados</DESCRIPCION>
+            <DIRECCION>CALLE BACHILLER PALMA, 1 </DIRECCION>
+            <ID>76364</ID>
+            <NOMBRE>COLONIAFELINA-114</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>368441.48011539</element>
+               <element>4062246.48926246</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_17b</id>
+         <properties>
+            <DESCRIPCION>Calle  Bachiller Palma. Los Prados (zona ajardinada)</DESCRIPCION>
+            <DIRECCION>CALLE BACHILLER PALMA, 1 </DIRECCION>
+            <ID>76388</ID>
+            <NOMBRE>COLONIAFELINA-144</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>371337.99487459</element>
+               <element>4063290.92176209</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_17c</id>
+         <properties>
+            <DESCRIPCION>Calle  Sta.Justa-Sta.Rufina.Bda.La Princesa</DESCRIPCION>
+            <DIRECCION>CALLE SANTA JUSTA, 1 </DIRECCION>
+            <ID>76393</ID>
+            <NOMBRE>COLONIAFELINA-150</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>369969.9029237</element>
+               <element>4062406.71687596</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_17d</id>
+         <properties>
+            <DESCRIPCION null="true" />
+            <DIRECCION>AVENIDA DE EUROPA, 110 </DIRECCION>
+            <ID>76394</ID>
+            <NOMBRE>COLONIAFELINA-152</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>368177.22543637</element>
+               <element>4067570.44318503</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_17e</id>
+         <properties>
+            <DESCRIPCION null="true" />
+            <DIRECCION>CALLE TOMILLO, 8 </DIRECCION>
+            <ID>76420</ID>
+            <NOMBRE>COLONIAFELINA-195</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>371871.12754538</element>
+               <element>4065662.91017666</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_17f</id>
+         <properties>
+            <DESCRIPCION null="true" />
+            <DIRECCION>CALLE SEBASTIÁN DE ESLAVA, 1 </DIRECCION>
+            <ID>76413</ID>
+            <NOMBRE>COLONIAFELINA-183</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>363253.78090301</element>
+               <element>4065830.61368892</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_180</id>
+         <properties>
+            <DESCRIPCION>(La Huertecilla Manas)</DESCRIPCION>
+            <DIRECCION>CALLE ZULEMA, 1 </DIRECCION>
+            <ID>76438</ID>
+            <NOMBRE>COLONIAFELINA-231</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>366516.25325156</element>
+               <element>4069247.17377306</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_181</id>
+         <properties>
+            <DESCRIPCION>Junta de los Caminos (Puerto de la Torre)</DESCRIPCION>
+            <DIRECCION>CALLE LA CUESTA, 12 </DIRECCION>
+            <ID>76442</ID>
+            <NOMBRE>COLONIAFELINA-223</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>371194.50422889</element>
+               <element>4075243.11662787</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_182</id>
+         <properties>
+            <DESCRIPCION>Lagar de Cotrina. Ctra. Las Pedrizas, Km. 134</DESCRIPCION>
+            <DIRECCION>DISEMINADO LAGAR COTRINA, 1 </DIRECCION>
+            <ID>76323</ID>
+            <NOMBRE>COLONIAFELINA-39</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>377098.10832183</element>
+               <element>4065188.19637495</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_183</id>
+         <properties>
+            <DESCRIPCION null="true" />
+            <DIRECCION>CALLE RAIMUNDO LULIO, 1 </DIRECCION>
+            <ID>76408</ID>
+            <NOMBRE>COLONIAFELINA-175</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>372390.25761982</element>
+               <element>4066823.23117616</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_184</id>
+         <properties>
+            <DESCRIPCION>Calles  Dr. Mesa Rodríguez. - Dr.Corrales Martín. Palma-Palmilla</DESCRIPCION>
+            <DIRECCION>CALLE DOCTOR MESA RODRÍGUEZ, 18 </DIRECCION>
+            <ID>76374</ID>
+            <NOMBRE>COLONIAFELINA-126</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>374403.43533522</element>
+               <element>4065578.74463207</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_185</id>
+         <properties>
+            <DESCRIPCION>urb San Cristobal zpna Ferrandiz</DESCRIPCION>
+            <DIRECCION>CALLE FÉLIX REVELLO DE TORO, 1 </DIRECCION>
+            <ID>76474</ID>
+            <NOMBRE>COLONIAFELINA-293</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>-4.42353906</element>
+               <element>36.73404428</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_186</id>
+         <properties>
+            <DESCRIPCION>Calle  San Adolfo - Fernando Loring - Arquitecto Gonzalo Iglesias - Segalerva</DESCRIPCION>
+            <DIRECCION>CALLE SOTOMAYOR, 1 </DIRECCION>
+            <ID>77693</ID>
+            <NOMBRE>COLONIAFELINA-34</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>-4.41023259</element>
+               <element>36.73583828</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_187</id>
+         <properties>
+            <DESCRIPCION>Calle  Decano Ignacio Alaminos (aparcamiento DIA)</DESCRIPCION>
+            <DIRECCION>CALLE DECANO NARCISO CROOKE, 5 </DIRECCION>
+            <ID>77718</ID>
+            <NOMBRE>COLONIAFELINA-146</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>379954.72878518</element>
+               <element>4065345.43634416</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_188</id>
+         <properties>
+            <DESCRIPCION>itv El Palo</DESCRIPCION>
+            <DIRECCION>CALLE ESCRITOR FUENTES Y CERDA, 2 </DIRECCION>
+            <ID>76473</ID>
+            <NOMBRE>COLONIAFELINA-291</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>373872.14430305</element>
+               <element>4066389.54017354</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_189</id>
+         <properties>
+            <DESCRIPCION null="true" />
+            <DIRECCION>CAMINO DE LOS ALMENDRALES, 9 </DIRECCION>
+            <ID>76355</ID>
+            <NOMBRE>COLONIAFELINA-103</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>373659.9072718</element>
+               <element>4068122.50307056</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_18a</id>
+         <properties>
+            <DESCRIPCION null="true" />
+            <DIRECCION>CALLE DEL MARQUÉS DE MANTUA, 1 </DIRECCION>
+            <ID>76306</ID>
+            <NOMBRE>COLONIAFELINA-7</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>376261.12824733</element>
+               <element>4066030.67119749</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_18b</id>
+         <properties>
+            <DESCRIPCION null="true" />
+            <DIRECCION>CALLE CHOPERA, 27 </DIRECCION>
+            <ID>76436</ID>
+            <NOMBRE>COLONIAFELINA-226</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>379494.56819359</element>
+               <element>4064759.33712724</element>
+               <element>4064759.33712724</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_18c</id>
+         <properties>
+            <DESCRIPCION null="true" />
+            <DIRECCION>AVENIDA PRINCIPAL DEL CANDADO, 9 </DIRECCION>
+            <ID>76673</ID>
+            <NOMBRE>COLONIAFELINA-284</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>375611.95169778</element>
+               <element>4065574.04367974</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_18d</id>
+         <properties>
+            <DESCRIPCION>(Parque Clavero)</DESCRIPCION>
+            <DIRECCION>CALLE FEDERICO FELLINI, 1 </DIRECCION>
+            <ID>76434</ID>
+            <NOMBRE>COLONIAFELINA-221</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>-4.40982145</element>
+               <element>36.73725835</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_18e</id>
+         <properties>
+            <DESCRIPCION>Calle  Decano Juan José Delicado. Urb. Atalaya de Olletas</DESCRIPCION>
+            <DIRECCION>CALLE DECANO JUAN JOSÉ DELICADO, 14 </DIRECCION>
+            <ID>77706</ID>
+            <NOMBRE>COLONIAFELINA-92</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>373067.4805486</element>
+               <element>4068243.6822143</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_18f</id>
+         <properties>
+            <DESCRIPCION>Alegría de la Huerta</DESCRIPCION>
+            <DIRECCION>CALLE QUINTANAR DE LA ORDEN, 7 </DIRECCION>
+            <ID>76348</ID>
+            <NOMBRE>COLONIAFELINA-85</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>-4.44693112</element>
+               <element>36.71208352</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_190</id>
+         <properties>
+            <DESCRIPCION>c/ Padre tejero/ plaza virgen del Carmen</DESCRIPCION>
+            <DIRECCION>PLAZA DE NUESTRA SEÑORA DEL CARMEN, 12 </DIRECCION>
+            <ID>77755</ID>
+            <NOMBRE>COLONIAFELINA-290</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>367735.34889851</element>
+               <element>4067105.85579705</element>
+               <element>4067105.85579705</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_191</id>
+         <properties>
+            <DESCRIPCION null="true" />
+            <DIRECCION>CALLE ALONDRA, 7 </DIRECCION>
+            <ID>76165</ID>
+            <NOMBRE>COLONIAFELINA-2</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>4113008.60927112</element>
+               <element>4892834.36184437</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_192</id>
+         <properties>
+            <DESCRIPCION null="true" />
+            <DIRECCION>CALLE CENIT, 54 </DIRECCION>
+            <ID>76422</ID>
+            <NOMBRE>COLONIAFELINA-181</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>371397.17072027</element>
+               <element>4065128.76100881</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_193</id>
+         <properties>
+            <DESCRIPCION>Bailén - Miraflores (jardines)</DESCRIPCION>
+            <DIRECCION>CALLE PALO MAYOR, 1 </DIRECCION>
+            <ID>76328</ID>
+            <NOMBRE>COLONIAFELINA-47</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>-4.45333533</element>
+               <element>36.70142523</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_194</id>
+         <properties>
+            <DESCRIPCION>Explanada de San Andrés-Espigón Puerto</DESCRIPCION>
+            <DIRECCION>CALLE BALAZÓN, 16 </DIRECCION>
+            <ID>77709</ID>
+            <NOMBRE>COLONIAFELINA-98</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>371437.05637782</element>
+               <element>4062780.46927574</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_195</id>
+         <properties>
+            <DESCRIPCION>El Cortijuelo</DESCRIPCION>
+            <DIRECCION>CALLE ABOGADO FEDERICO ORELLANA TOLEDANO, 1 </DIRECCION>
+            <ID>76451</ID>
+            <NOMBRE>COLONIAFELINA-248</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>368743.56202605</element>
+               <element>4065974.56283505</element>
+               <element>4065974.56283505</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_196</id>
+         <properties>
+            <DESCRIPCION null="true" />
+            <DIRECCION>CALLE NUZAS, 24 </DIRECCION>
+            <ID>76166</ID>
+            <NOMBRE>COLONIAFELINA-3</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>-4.47697366</element>
+               <element>36.74711814</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_197</id>
+         <properties>
+            <DESCRIPCION>Calle  Pitágoras - Calle José Barreras. Puerto de la Torre</DESCRIPCION>
+            <DIRECCION>CALLE TIÉPOLO, 3A</DIRECCION>
+            <ID>77704</ID>
+            <NOMBRE>COLONIAFELINA-88</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>370617.69869493</element>
+               <element>4064739.33483915</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_198</id>
+         <properties>
+            <DESCRIPCION>Calle  Argentea (Carranque) (zona campo fútbol Colegio San José)</DESCRIPCION>
+            <DIRECCION>AVENIDA DEL OBISPO ÁNGEL HERRERA ORIA, 90 </DIRECCION>
+            <ID>77742</ID>
+            <NOMBRE>COLONIAFELINA-225</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>372164.71637143</element>
+               <element>4063374.77799861</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_199</id>
+         <properties>
+            <DESCRIPCION>(trasera de la Resid. Sgdo.Corazón)</DESCRIPCION>
+            <DIRECCION>CALLE AGUSTÍN MONTES FUENTES, 1 </DIRECCION>
+            <ID>76351</ID>
+            <NOMBRE>COLONIAFELINA-93</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>372164.71637143</element>
+               <element>4063374.77799861</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_19a</id>
+         <properties>
+            <DESCRIPCION>Calle Agustín Montes Fuentes - Ferrocarril del Puerto</DESCRIPCION>
+            <DIRECCION>CALLE AGUSTÍN MONTES FUENTES, 1 </DIRECCION>
+            <ID>76450</ID>
+            <NOMBRE>COLONIAFELINA-247</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>370380.31606385</element>
+               <element>4065344.78932256</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_19b</id>
+         <properties>
+            <DESCRIPCION>(descampado, detrás Comisaría) Bailén - Miraflores</DESCRIPCION>
+            <DIRECCION>CALLE JOSÉ ORTEGA LUQUE, 1 </DIRECCION>
+            <ID>76332</ID>
+            <NOMBRE>COLONIAFELINA-54</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>-4.46429073</element>
+               <element>36.71018944</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_19c</id>
+         <properties>
+            <DESCRIPCION>Calle Quasimodo-Calle Eugenio Oneguin.Cortijo Alto</DESCRIPCION>
+            <DIRECCION>CALLE HAMLET, 15 </DIRECCION>
+            <ID>77722</ID>
+            <NOMBRE>COLONIAFELINA-157</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>367782.0645352</element>
+               <element>4066696.31841834</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_19d</id>
+         <properties>
+            <DESCRIPCION>Puerto de la Torre</DESCRIPCION>
+            <DIRECCION>CALLE JOYERÍA, 1 </DIRECCION>
+            <ID>76366</ID>
+            <NOMBRE>COLONIAFELINA-117</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>369383.52872873</element>
+               <element>4061959.25802794</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_19e</id>
+         <properties>
+            <DESCRIPCION>. Urb. Puerta Málaga</DESCRIPCION>
+            <DIRECCION>CALLE DOLORES IBÁRRURI, 1 </DIRECCION>
+            <ID>76344</ID>
+            <NOMBRE>COLONIAFELINA-79</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>371151.90517502</element>
+               <element>4062250.68323439</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_19f</id>
+         <properties>
+            <DESCRIPCION null="true" />
+            <DIRECCION>CALLE PALANCAR, 1 </DIRECCION>
+            <ID>76308</ID>
+            <NOMBRE>COLONIAFELINA-15</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>-4.44595765</element>
+               <element>36.72684596</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_1a0</id>
+         <properties>
+            <DESCRIPCION>Zona entre Calle  Argentinita y Monte Pavero</DESCRIPCION>
+            <DIRECCION>CALLE ALBACETE, 60 </DIRECCION>
+            <ID>77688</ID>
+            <NOMBRE>COLONIAFELINA-6</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>366690.34747166</element>
+               <element>4063025.46870726</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_1a1</id>
+         <properties>
+            <DESCRIPCION null="true" />
+            <DIRECCION>CALLE GRAN BRETAÑA, 1 </DIRECCION>
+            <ID>76402</ID>
+            <NOMBRE>COLONIAFELINA-167</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>376747.40418117</element>
+               <element>4065506.33516394</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_1a2</id>
+         <properties>
+            <DESCRIPCION>Cerrado de Calderón</DESCRIPCION>
+            <DIRECCION>CALLE UNIDAD, 1 </DIRECCION>
+            <ID>76309</ID>
+            <NOMBRE>COLONIAFELINA-16</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>379955.58522885</element>
+               <element>4064701.0658388</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_1a3</id>
+         <properties>
+            <DESCRIPCION>Calle Golf del Candado y calle Francis de Medran - El Candado</DESCRIPCION>
+            <DIRECCION>CALLE GOLF DEL CANDADO, 51 </DIRECCION>
+            <ID>76455</ID>
+            <NOMBRE>COLONIAFELINA-258</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>368763.4692078</element>
+               <element>4066065.23216597</element>
+               <element>4066065.23216597</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_1a4</id>
+         <properties>
+            <DESCRIPCION null="true" />
+            <DIRECCION>AVENIDA DEL ATABAL, 1 </DIRECCION>
+            <ID>76671</ID>
+            <NOMBRE>COLONIAFELINA-260</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>367404.60937656</element>
+               <element>4059580.55122741</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_1a5</id>
+         <properties>
+            <DESCRIPCION>Aeropuerto, Zona Fábrica de la San Miguel</DESCRIPCION>
+            <DIRECCION>CALLE ARGONAUTAS, 53 </DIRECCION>
+            <ID>77727</ID>
+            <NOMBRE>COLONIAFELINA-184</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>-4.46769627</element>
+               <element>36.73116946</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_1a6</id>
+         <properties>
+            <DESCRIPCION>Avda. Lopez de Vega. Parque Balsa de la Decantación</DESCRIPCION>
+            <DIRECCION>AVENIDA DE JULIO CORTÁZAR, 1 </DIRECCION>
+            <ID>77724</ID>
+            <NOMBRE>COLONIAFELINA-163</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>-4.41720955</element>
+               <element>36.72575124</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_1a7</id>
+         <properties>
+            <DESCRIPCION>c/ lagunillas, gomez salazar , padre mondejar</DESCRIPCION>
+            <DIRECCION>CALLE GÓMEZ SALAZAR, 13 </DIRECCION>
+            <ID>77760</ID>
+            <NOMBRE>COLONIAFELINA-305</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>367716.73754237</element>
+               <element>4068259.12671413</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_1a8</id>
+         <properties>
+            <DESCRIPCION null="true" />
+            <DIRECCION>CALLE DE SPONTINI, 50 </DIRECCION>
+            <ID>76449</ID>
+            <NOMBRE>COLONIAFELINA-265</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>368408.45318735</element>
+               <element>4060791.3378957</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_1a9</id>
+         <properties>
+            <DESCRIPCION null="true" />
+            <DIRECCION>CARRETERA AZUCARERA-INTELHORCE, 1 </DIRECCION>
+            <ID>76428</ID>
+            <NOMBRE>COLONIAFELINA-208</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>368408.45318735</element>
+               <element>4060791.3378957</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_1aa</id>
+         <properties>
+            <DESCRIPCION null="true" />
+            <DIRECCION>CARRETERA AZUCARERA-INTELHORCE, 1 </DIRECCION>
+            <ID>76454</ID>
+            <NOMBRE>COLONIAFELINA-257</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>366563.85441516</element>
+               <element>4067256.82068885</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_1ab</id>
+         <properties>
+            <DESCRIPCION null="true" />
+            <DIRECCION>CALLE ORQUÍDEA, 35 </DIRECCION>
+            <ID>76457</ID>
+            <NOMBRE>COLONIAFELINA-278</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>370650.0535117</element>
+               <element>4061545.37947105</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_1ac</id>
+         <properties>
+            <DESCRIPCION null="true" />
+            <DIRECCION>CALLE LA CRÓNICA, 1 </DIRECCION>
+            <ID>76377</ID>
+            <NOMBRE>COLONIAFELINA-129</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>376929.61127602</element>
+               <element>4065775.00385414</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_1ad</id>
+         <properties>
+            <DESCRIPCION>Cerrado de Calderón</DESCRIPCION>
+            <DIRECCION>CALLE JENGIBRE, 1 </DIRECCION>
+            <ID>76370</ID>
+            <NOMBRE>COLONIAFELINA-121</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>380981.56180743</element>
+               <element>4065018.95241903</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_1ae</id>
+         <properties>
+            <DESCRIPCION null="true" />
+            <DIRECCION>CALLE ESTRELLA DE MAR, 1 </DIRECCION>
+            <ID>76453</ID>
+            <NOMBRE>COLONIAFELINA-253</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>370556.59382527</element>
+               <element>4061764.72590208</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_1af</id>
+         <properties>
+            <DESCRIPCION>Jardines de Santa Paula</DESCRIPCION>
+            <DIRECCION>CALLE FRANCISCO PADILLA, 17 </DIRECCION>
+            <ID>76362</ID>
+            <NOMBRE>COLONIAFELINA-111</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>372032.92384431</element>
+               <element>4071412.45179194</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_1b0</id>
+         <properties>
+            <DESCRIPCION>Pantano del Agujero Camino Real Torre número 5</DESCRIPCION>
+            <DIRECCION>CAMINO REAL DE LA TORRE, 5 </DIRECCION>
+            <ID>76458</ID>
+            <NOMBRE>COLONIAFELINA-266</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>-4.48080421</element>
+               <element>36.74938703</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_1b1</id>
+         <properties>
+            <DESCRIPCION>Fuente Alegre-Arroyo Espana (Puerto de la Torre)</DESCRIPCION>
+            <DIRECCION>CALLE AQUILES, 1 </DIRECCION>
+            <ID>77708</ID>
+            <NOMBRE>COLONIAFELINA-97</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>371329.58990701</element>
+               <element>4062413.91303552</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_1b2</id>
+         <properties>
+            <DESCRIPCION>La Tabacalera. Avda. Sor Teresa Prat (jardines y aparcamientos) Huelin</DESCRIPCION>
+            <DIRECCION>AVENIDA DE SOR TERESA PRAT, 17 </DIRECCION>
+            <ID>76338</ID>
+            <NOMBRE>COLONIAFELINA-66</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>377533.82013758</element>
+               <element>4064843.88784325</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_1b3</id>
+         <properties>
+            <DESCRIPCION null="true" />
+            <DIRECCION>CALLE EUGENIO SELLÉS, 1 </DIRECCION>
+            <ID>76433</ID>
+            <NOMBRE>COLONIAFELINA-218</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>369411.8421067</element>
+               <element>4063027.85947254</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_1b4</id>
+         <properties>
+            <DESCRIPCION>Calle  de la Jábera (parking recinto ferial)</DESCRIPCION>
+            <DIRECCION>CALLE CRISTÓBAL RUIZ MOLERO, 2 </DIRECCION>
+            <ID>77716</ID>
+            <NOMBRE>COLONIAFELINA-140</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>380616.91921972</element>
+               <element>4064943.29600036</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_1b5</id>
+         <properties>
+            <DESCRIPCION>Atalaya de Jarazmín</DESCRIPCION>
+            <DIRECCION>CALLE PEZ LUNA, 1 </DIRECCION>
+            <ID>76441</ID>
+            <NOMBRE>COLONIAFELINA-234</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>-4.35211878</element>
+               <element>36.72226976</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_1b6</id>
+         <properties>
+            <DESCRIPCION>C/ Antofagasta. Aljofaina y calle Algarrobo. El Palo</DESCRIPCION>
+            <DIRECCION>CALLE INÉS SUÁREZ, 16 </DIRECCION>
+            <ID>77723</ID>
+            <NOMBRE>COLONIAFELINA-158</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>364900.36399188</element>
+               <element>4070814.73869686</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_1b7</id>
+         <properties>
+            <DESCRIPCION null="true" />
+            <DIRECCION>CAMINO LOS NUÑEZ, 1 </DIRECCION>
+            <ID>76475</ID>
+            <NOMBRE>COLONIAFELINA-294</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+      <element>
+         <geometry>
+            <coordinates>
+               <element>364985.81187882</element>
+               <element>4059987.56370516</element>
+               <element>0</element>
+            </coordinates>
+            <type>Point</type>
+         </geometry>
+         <geometry_name>SDOGEOMETRIA</geometry_name>
+         <id>da_coloniasFelinas.fid-34379df5_195c62a1ab7_1b8</id>
+         <properties>
+            <DESCRIPCION null="true" />
+            <DIRECCION>CAMINO PUENTE DEL REY, 1 </DIRECCION>
+            <ID>76342</ID>
+            <NOMBRE>COLONIAFELINA-74</NOMBRE>
+         </properties>
+         <type>Feature</type>
+      </element>
+   </features>
+   <totalFeatures>262</totalFeatures>
+   <type>FeatureCollection</type>
+</root>
