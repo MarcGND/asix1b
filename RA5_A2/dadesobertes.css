@@ -28,7 +28,7 @@ main {
     padding: 2rem;
 }
 
-.output {
+#output {
     padding-left: 2%;
     margin-top: 1rem;
     margin-left: 2%;
