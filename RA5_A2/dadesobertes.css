@@ -1,9 +1,12 @@
 
+* {
+    padding-left: 1%;
+    background-color: #e670be;
+}
 body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #e670be;
     color: #333;
 }
 
