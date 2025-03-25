@@ -21,7 +21,9 @@ nav {
 }
 
 nav a {
-    color: white;
+    background-color: #ffe4e1; 
+    text-decoration: none;
+    font-family: 'Courier New', Courier, monospace; 
     text-decoration: none;
     margin: 0 1rem;
 }
