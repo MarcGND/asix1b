@@ -1,9 +1,4 @@
 
-* {
-    padding-left: 2%;
-    background-color: #e9a6da;
-    margin-left: 2%;
-}
 body {
     font-family: Arial, sans-serif;
     margin: 0;
@@ -29,7 +24,6 @@ main {
 }
 
 .output {
-    background-color: #f9f9f9;
     padding-left: 2%;
     margin-top: 1rem;
     margin-left: 2%;
