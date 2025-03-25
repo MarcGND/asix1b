@@ -1,7 +1,7 @@
 
 * {
     padding-left: 2%;
-    background-color: #ee9ed3;
+    background-color: #e9a6da;
     margin-left: 2%;
 }
 body {
@@ -28,3 +28,9 @@ main {
     padding: 2rem;
 }
 
+.output {
+    background-color: #f9f9f9;
+    padding-left: 2%;
+    margin-top: 1rem;
+    margin-left: 2%;
+}
