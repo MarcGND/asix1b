@@ -3,7 +3,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f4f4f4;
+    background-color: #e670be;
     color: #333;
 }
 
@@ -20,28 +20,7 @@ nav {
     text-align: center;
 }
 
-nav a {
-    background-color: #ffe4e1; 
-    text-decoration: none;
-    font-family: 'Courier New', Courier, monospace; 
-    text-decoration: none;
-    margin: 0 1rem;
-}
-
-nav a:hover {
-    text-decoration: underline;
-}
-
 main {
     padding: 2rem;
 }
 
-footer {
-    background-color: #333;
-    color: white;
-    text-align: center;
-    padding: 1rem;
-    position: fixed;
-    bottom: 0;
-    width: 100%;
-}
