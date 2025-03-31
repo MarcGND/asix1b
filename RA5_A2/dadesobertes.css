@@ -1,8 +1,8 @@
 
 * {
-    padding-left: 2%;
+    padding-left: 1%;
     background-color: #e9a6da;
-    margin-left: 2%;
+    margin-left: 1%;
 }
 body {
     font-family: Arial, sans-serif;
@@ -25,7 +25,7 @@ nav {
 }
 
 main {
-    padding: 2rem;
+    padding: 1%;
 }
 
 #output {
